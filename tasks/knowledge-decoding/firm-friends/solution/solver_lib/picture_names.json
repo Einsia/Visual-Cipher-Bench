@@ -1,0 +1,72 @@
+{
+  "bead": [
+    "bead",
+    "pearl",
+    "ball",
+    "beads"
+  ],
+  "rack": [
+    "rack",
+    "shelf",
+    "stand",
+    "frame",
+    "shelves"
+  ],
+  "sill": [
+    "sill",
+    "ledge",
+    "window",
+    "windowsill"
+  ],
+  "hide": [
+    "hide",
+    "skin",
+    "pelt"
+  ],
+  "wire": [
+    "wire",
+    "thread",
+    "coil",
+    "spool",
+    "cable"
+  ],
+  "fall": [
+    "fall",
+    "autumn",
+    "drop",
+    "leaves"
+  ],
+  "saw": [
+    "saw",
+    "blade",
+    "tool"
+  ],
+  "loot": [
+    "loot",
+    "gold",
+    "treasure",
+    "coins",
+    "chest"
+  ],
+  "light": [
+    "light",
+    "bulb",
+    "lamp"
+  ],
+  "rain": [
+    "rain",
+    "shower",
+    "cloud",
+    "water"
+  ],
+  "rye": [
+    "rye"
+  ],
+  "hoe": [
+    "hoe",
+    "rake",
+    "spade",
+    "pick",
+    "mattock"
+  ]
+}

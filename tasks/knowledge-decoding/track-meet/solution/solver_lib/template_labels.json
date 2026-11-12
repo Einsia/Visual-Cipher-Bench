@@ -1,0 +1,240 @@
+{
+  "glyphs": [
+    {
+      "key": "g0",
+      "char": "T",
+      "font": "title"
+    },
+    {
+      "key": "g1",
+      "char": "r",
+      "font": "title"
+    },
+    {
+      "key": "g2",
+      "char": "a",
+      "font": "title"
+    },
+    {
+      "key": "g3",
+      "char": "c",
+      "font": "title"
+    },
+    {
+      "key": "g4",
+      "char": "k",
+      "font": "title"
+    },
+    {
+      "key": "g5",
+      "char": "M",
+      "font": "title"
+    },
+    {
+      "key": "g6",
+      "char": "e",
+      "font": "title"
+    },
+    {
+      "key": "g7",
+      "char": "e",
+      "font": "title"
+    },
+    {
+      "key": "g8",
+      "char": "t",
+      "font": "title"
+    },
+    {
+      "key": "g9",
+      "char": "E",
+      "font": "label"
+    },
+    {
+      "key": "g10",
+      "char": "x",
+      "font": "label"
+    },
+    {
+      "key": "g11",
+      "char": "a",
+      "font": "label"
+    },
+    {
+      "key": "g12",
+      "char": "m",
+      "font": "label"
+    },
+    {
+      "key": "g13",
+      "char": "p",
+      "font": "label"
+    },
+    {
+      "key": "g14",
+      "char": "l",
+      "font": "label"
+    },
+    {
+      "key": "g15",
+      "char": "e",
+      "font": "label"
+    },
+    {
+      "key": "g16",
+      "char": "R",
+      "font": "mono"
+    },
+    {
+      "key": "g17",
+      "char": "A",
+      "font": "mono"
+    },
+    {
+      "key": "g18",
+      "char": "S",
+      "font": "mono"
+    },
+    {
+      "key": "g19",
+      "char": "H",
+      "font": "mono"
+    },
+    {
+      "key": "g20",
+      "char": "B",
+      "font": "mono"
+    },
+    {
+      "key": "g21",
+      "char": "A",
+      "font": "mono"
+    },
+    {
+      "key": "g22",
+      "char": "S",
+      "font": "mono"
+    },
+    {
+      "key": "g23",
+      "char": "H",
+      "font": "mono"
+    },
+    {
+      "key": "g24",
+      "char": "C",
+      "font": "mono"
+    },
+    {
+      "key": "g25",
+      "char": "O",
+      "font": "mono"
+    },
+    {
+      "key": "g26",
+      "char": "A",
+      "font": "mono"
+    },
+    {
+      "key": "g27",
+      "char": "L",
+      "font": "mono"
+    },
+    {
+      "key": "g28",
+      "char": "B",
+      "font": "mono"
+    },
+    {
+      "key": "g29",
+      "char": "A",
+      "font": "mono"
+    },
+    {
+      "key": "g30",
+      "char": "S",
+      "font": "mono"
+    },
+    {
+      "key": "g31",
+      "char": "H",
+      "font": "mono"
+    },
+    {
+      "key": "g32",
+      "char": "R",
+      "font": "mono"
+    },
+    {
+      "key": "g33",
+      "char": "O",
+      "font": "mono"
+    },
+    {
+      "key": "g34",
+      "char": "L",
+      "font": "mono"
+    },
+    {
+      "key": "g35",
+      "char": "E",
+      "font": "mono"
+    },
+    {
+      "key": "g36",
+      "char": "K",
+      "font": "mono"
+    },
+    {
+      "key": "g37",
+      "char": "E",
+      "font": "mono"
+    },
+    {
+      "key": "g38",
+      "char": "Y",
+      "font": "mono"
+    },
+    {
+      "key": "g39",
+      "char": "E",
+      "font": "mono"
+    },
+    {
+      "key": "g40",
+      "char": "D",
+      "font": "mono"
+    },
+    {
+      "key": "g41",
+      "char": "?",
+      "font": "mono"
+    }
+  ],
+  "icons": [
+    {
+      "key": "icon_bed",
+      "label": "bed"
+    },
+    {
+      "key": "icon_coal",
+      "label": "coal"
+    },
+    {
+      "key": "icon_ribbon",
+      "label": "ribbon"
+    },
+    {
+      "key": "icon_ring",
+      "label": "ring"
+    },
+    {
+      "key": "icon_forest",
+      "label": "forest"
+    },
+    {
+      "key": "icon_table",
+      "label": "table"
+    }
+  ]
+}

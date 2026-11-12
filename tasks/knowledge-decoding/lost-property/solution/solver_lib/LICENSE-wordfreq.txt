@@ -1,0 +1,40 @@
+wordfreq word list data
+
+Files in this directory derived from wordfreq (https://github.com/rspeer/wordfreq),
+version 3.1.1, top_n_list('en', 200000), restricted to ASCII alphabetic tokens.
+
+Copyright 2022 Robyn Speer. Derivation: the Visual Cipher Bench authors.
+
+Citation: Robyn Speer (2022). rspeer/wordfreq: v3.0. Zenodo.
+https://doi.org/10.5281/zenodo.7199437
+
+License of the data: Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+The derived word list in this directory is distributed under the same license.
+The complete license text is included in LICENSE-CC-BY-SA-4.0.txt.
+Changes: tokens filtered to ASCII letters, case changed, frequencies removed,
+list truncated as stated in the accompanying notice.
+
+wordfreq's own source code is licensed under the Apache License 2.0; no
+wordfreq code is included here.
+
+wordfreq builds on the following sources, credited as its license requires:
+Google Books Ngrams (http://books.google.com/ngrams) and Google Books Syntactic
+Ngrams (http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html);
+the Leeds Internet Corpus, University of Leeds Centre for Translation Studies
+(http://corpus.leeds.ac.uk/list.html); Wikipedia (https://www.wikipedia.org/);
+ParaCrawl (https://paracrawl.eu/); and OPUS OpenSubtitles 2018
+(http://opus.nlpl.eu/OpenSubtitles.php), originating from OpenSubtitles
+(https://www.opensubtitles.org/).
+
+The SUBTLEX word lists are by Marc Brysbaert and collaborators, including Boris
+New (SUBTLEX-US), Qing Cai (SUBTLEX-CH), Emmanuel Keuleers (SUBTLEX-NL), and
+the SUBTLEX-DE and SUBTLEX-UK contributors credited by wordfreq. SUBTLEX is
+freely available data: http://crr.ugent.be/programs-data/subtitle-frequencies .
+wordfreq's distribution notice records permission from Marc Brysbaert for use
+for any purpose, with attribution and this availability statement retained.
+
+`common_words_20k.txt`: the first 20,000 entries after filtering, lowercased.
+The exact derivation, source-wheel hash, and output hash are recorded in
+LICENSE-common-words.txt. The share-alike terms apply to this derived list;
+this notice does not relicense unrelated benchmark files.

@@ -1,0 +1,5765 @@
+[
+  {
+    "line": [
+      270.0,
+      515.0,
+      710.0,
+      515.0
+    ],
+    "width": 4.0,
+    "command_id": "old_3",
+    "group": "example"
+  },
+  {
+    "line": [
+      710.0,
+      515.0,
+      710.0,
+      581.0
+    ],
+    "width": 4.0,
+    "command_id": "old_3",
+    "group": "example"
+  },
+  {
+    "line": [
+      710.0,
+      581.0,
+      270.0,
+      581.0
+    ],
+    "width": 4.0,
+    "command_id": "old_3",
+    "group": "example"
+  },
+  {
+    "line": [
+      270.0,
+      581.0,
+      270.0,
+      515.0
+    ],
+    "width": 4.0,
+    "command_id": "old_3",
+    "group": "example"
+  },
+  {
+    "line": [
+      380.0,
+      581.0,
+      380.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_5",
+    "group": "example"
+  },
+  {
+    "line": [
+      380.0,
+      515.0,
+      380.0,
+      581.0
+    ],
+    "width": 1.5,
+    "command_id": "old_7",
+    "group": "example"
+  },
+  {
+    "line": [
+      490.0,
+      581.0,
+      490.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_9",
+    "group": "example"
+  },
+  {
+    "line": [
+      490.0,
+      515.0,
+      490.0,
+      581.0
+    ],
+    "width": 1.5,
+    "command_id": "old_11",
+    "group": "example"
+  },
+  {
+    "line": [
+      600.0,
+      581.0,
+      600.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_13",
+    "group": "example"
+  },
+  {
+    "line": [
+      600.0,
+      515.0,
+      600.0,
+      581.0
+    ],
+    "width": 1.5,
+    "command_id": "old_15",
+    "group": "example"
+  },
+  {
+    "line": [
+      710.0,
+      581.0,
+      710.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_17",
+    "group": "example"
+  },
+  {
+    "line": [
+      270.0,
+      497.0,
+      270.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_19",
+    "group": "example"
+  },
+  {
+    "line": [
+      270.0,
+      488.0,
+      600.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_20",
+    "group": "example"
+  },
+  {
+    "line": [
+      600.0,
+      488.0,
+      600.0,
+      497.0
+    ],
+    "width": 2.5,
+    "command_id": "old_21",
+    "group": "example"
+  },
+  {
+    "line": [
+      600.0,
+      515.0,
+      600.0,
+      581.0
+    ],
+    "width": 4.0,
+    "command_id": "old_23",
+    "group": "example"
+  },
+  {
+    "line": [
+      600.0,
+      497.0,
+      600.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_24",
+    "group": "example"
+  },
+  {
+    "line": [
+      600.0,
+      488.0,
+      710.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_25",
+    "group": "example"
+  },
+  {
+    "line": [
+      710.0,
+      488.0,
+      710.0,
+      497.0
+    ],
+    "width": 2.5,
+    "command_id": "old_26",
+    "group": "example"
+  },
+  {
+    "line": [
+      1030.0,
+      515.0,
+      1360.0,
+      515.0
+    ],
+    "width": 4.0,
+    "command_id": "old_29",
+    "group": "example"
+  },
+  {
+    "line": [
+      1360.0,
+      515.0,
+      1360.0,
+      581.0
+    ],
+    "width": 4.0,
+    "command_id": "old_29",
+    "group": "example"
+  },
+  {
+    "line": [
+      1360.0,
+      581.0,
+      1030.0,
+      581.0
+    ],
+    "width": 4.0,
+    "command_id": "old_29",
+    "group": "example"
+  },
+  {
+    "line": [
+      1030.0,
+      581.0,
+      1030.0,
+      515.0
+    ],
+    "width": 4.0,
+    "command_id": "old_29",
+    "group": "example"
+  },
+  {
+    "line": [
+      1140.0,
+      581.0,
+      1140.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_31",
+    "group": "example"
+  },
+  {
+    "line": [
+      1140.0,
+      515.0,
+      1140.0,
+      581.0
+    ],
+    "width": 1.5,
+    "command_id": "old_33",
+    "group": "example"
+  },
+  {
+    "line": [
+      1250.0,
+      581.0,
+      1250.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_35",
+    "group": "example"
+  },
+  {
+    "line": [
+      1250.0,
+      515.0,
+      1250.0,
+      581.0
+    ],
+    "width": 1.5,
+    "command_id": "old_37",
+    "group": "example"
+  },
+  {
+    "line": [
+      1360.0,
+      581.0,
+      1360.0,
+      597.0
+    ],
+    "width": 1.5,
+    "command_id": "old_39",
+    "group": "example"
+  },
+  {
+    "line": [
+      1030.0,
+      497.0,
+      1030.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_41",
+    "group": "example"
+  },
+  {
+    "line": [
+      1030.0,
+      488.0,
+      1250.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_42",
+    "group": "example"
+  },
+  {
+    "line": [
+      1250.0,
+      488.0,
+      1250.0,
+      497.0
+    ],
+    "width": 2.5,
+    "command_id": "old_43",
+    "group": "example"
+  },
+  {
+    "line": [
+      1250.0,
+      515.0,
+      1250.0,
+      581.0
+    ],
+    "width": 4.0,
+    "command_id": "old_45",
+    "group": "example"
+  },
+  {
+    "line": [
+      1250.0,
+      497.0,
+      1250.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_46",
+    "group": "example"
+  },
+  {
+    "line": [
+      1250.0,
+      488.0,
+      1360.0,
+      488.0
+    ],
+    "width": 2.5,
+    "command_id": "old_47",
+    "group": "example"
+  },
+  {
+    "line": [
+      1360.0,
+      488.0,
+      1360.0,
+      497.0
+    ],
+    "width": 2.5,
+    "command_id": "old_48",
+    "group": "example"
+  },
+  {
+    "line": [
+      676.0,
+      615.0,
+      744.0,
+      615.0
+    ],
+    "width": 2.5,
+    "command_id": "old_50",
+    "group": "example"
+  },
+  {
+    "line": [
+      744.0,
+      615.0,
+      744.0,
+      658.0
+    ],
+    "width": 2.5,
+    "command_id": "old_50",
+    "group": "example"
+  },
+  {
+    "line": [
+      744.0,
+      658.0,
+      676.0,
+      658.0
+    ],
+    "width": 2.5,
+    "command_id": "old_50",
+    "group": "example"
+  },
+  {
+    "line": [
+      676.0,
+      658.0,
+      676.0,
+      615.0
+    ],
+    "width": 2.5,
+    "command_id": "old_50",
+    "group": "example"
+  },
+  {
+    "line": [
+      670.0,
+      609.0,
+      750.0,
+      609.0
+    ],
+    "width": 1.5,
+    "command_id": "old_51",
+    "group": "example"
+  },
+  {
+    "line": [
+      750.0,
+      609.0,
+      750.0,
+      664.0
+    ],
+    "width": 1.5,
+    "command_id": "old_51",
+    "group": "example"
+  },
+  {
+    "line": [
+      750.0,
+      664.0,
+      670.0,
+      664.0
+    ],
+    "width": 1.5,
+    "command_id": "old_51",
+    "group": "example"
+  },
+  {
+    "line": [
+      670.0,
+      664.0,
+      670.0,
+      609.0
+    ],
+    "width": 1.5,
+    "command_id": "old_51",
+    "group": "example"
+  },
+  {
+    "line": [
+      1216.0,
+      615.0,
+      1284.0,
+      615.0
+    ],
+    "width": 2.5,
+    "command_id": "old_52",
+    "group": "example"
+  },
+  {
+    "line": [
+      1284.0,
+      615.0,
+      1284.0,
+      658.0
+    ],
+    "width": 2.5,
+    "command_id": "old_52",
+    "group": "example"
+  },
+  {
+    "line": [
+      1284.0,
+      658.0,
+      1216.0,
+      658.0
+    ],
+    "width": 2.5,
+    "command_id": "old_52",
+    "group": "example"
+  },
+  {
+    "line": [
+      1216.0,
+      658.0,
+      1216.0,
+      615.0
+    ],
+    "width": 2.5,
+    "command_id": "old_52",
+    "group": "example"
+  },
+  {
+    "line": [
+      1039.0,
+      943.0,
+      1101.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_94",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      943.0,
+      1101.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_94",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      994.0,
+      1039.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_94",
+    "group": "example"
+  },
+  {
+    "line": [
+      1039.0,
+      994.0,
+      1039.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_94",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      943.0,
+      1236.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_96",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      943.0,
+      1236.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_96",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      994.0,
+      1174.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_96",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      994.0,
+      1174.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_96",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      943.0,
+      1371.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_98",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      943.0,
+      1371.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_98",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      994.0,
+      1309.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_98",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      994.0,
+      1309.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_98",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      943.0,
+      1506.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_100",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      943.0,
+      1506.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_100",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      994.0,
+      1444.0,
+      994.0
+    ],
+    "width": 2.5,
+    "command_id": "old_100",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      994.0,
+      1444.0,
+      943.0
+    ],
+    "width": 2.5,
+    "command_id": "old_100",
+    "group": "example"
+  },
+  {
+    "line": [
+      1070.0,
+      1004.0,
+      1340.0,
+      1028.0
+    ],
+    "width": 2.5,
+    "command_id": "old_102",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1205.0,
+      1004.0,
+      1205.0,
+      1028.0
+    ],
+    "width": 2.5,
+    "command_id": "old_103",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1340.0,
+      1004.0,
+      1070.0,
+      1028.0
+    ],
+    "width": 2.5,
+    "command_id": "old_104",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1475.0,
+      1004.0,
+      1475.0,
+      1028.0
+    ],
+    "width": 2.5,
+    "command_id": "old_105",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1039.0,
+      1038.0,
+      1101.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_106",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      1038.0,
+      1101.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_106",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      1089.0,
+      1039.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_106",
+    "group": "example"
+  },
+  {
+    "line": [
+      1039.0,
+      1089.0,
+      1039.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_106",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      1038.0,
+      1236.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_108",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      1038.0,
+      1236.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_108",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      1089.0,
+      1174.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_108",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      1089.0,
+      1174.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_108",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      1038.0,
+      1371.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_110",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      1038.0,
+      1371.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_110",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      1089.0,
+      1309.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_110",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      1089.0,
+      1309.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_110",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      1038.0,
+      1506.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_112",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      1038.0,
+      1506.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_112",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      1089.0,
+      1444.0,
+      1089.0
+    ],
+    "width": 2.5,
+    "command_id": "old_112",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      1089.0,
+      1444.0,
+      1038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_112",
+    "group": "example"
+  },
+  {
+    "line": [
+      1070.0,
+      1099.0,
+      1475.0,
+      1123.0
+    ],
+    "width": 2.5,
+    "command_id": "old_114",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1205.0,
+      1099.0,
+      1205.0,
+      1123.0
+    ],
+    "width": 2.5,
+    "command_id": "old_115",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1340.0,
+      1099.0,
+      1340.0,
+      1123.0
+    ],
+    "width": 2.5,
+    "command_id": "old_116",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1475.0,
+      1099.0,
+      1070.0,
+      1123.0
+    ],
+    "width": 2.5,
+    "command_id": "old_117",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1039.0,
+      1133.0,
+      1101.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_118",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      1133.0,
+      1101.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_118",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      1184.0,
+      1039.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_118",
+    "group": "example"
+  },
+  {
+    "line": [
+      1039.0,
+      1184.0,
+      1039.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_118",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      1133.0,
+      1236.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_120",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      1133.0,
+      1236.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_120",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      1184.0,
+      1174.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_120",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      1184.0,
+      1174.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_120",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      1133.0,
+      1371.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_122",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      1133.0,
+      1371.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_122",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      1184.0,
+      1309.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_122",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      1184.0,
+      1309.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_122",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      1133.0,
+      1506.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_124",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      1133.0,
+      1506.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_124",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      1184.0,
+      1444.0,
+      1184.0
+    ],
+    "width": 2.5,
+    "command_id": "old_124",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      1184.0,
+      1444.0,
+      1133.0
+    ],
+    "width": 2.5,
+    "command_id": "old_124",
+    "group": "example"
+  },
+  {
+    "line": [
+      1070.0,
+      1194.0,
+      1070.0,
+      1218.0
+    ],
+    "width": 2.5,
+    "command_id": "old_126",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1205.0,
+      1194.0,
+      1475.0,
+      1218.0
+    ],
+    "width": 2.5,
+    "command_id": "old_127",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1340.0,
+      1194.0,
+      1340.0,
+      1218.0
+    ],
+    "width": 2.5,
+    "command_id": "old_128",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1475.0,
+      1194.0,
+      1205.0,
+      1218.0
+    ],
+    "width": 2.5,
+    "command_id": "old_129",
+    "group": "example",
+    "arrow": 12
+  },
+  {
+    "line": [
+      1039.0,
+      1228.0,
+      1101.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_130",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      1228.0,
+      1101.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_130",
+    "group": "example"
+  },
+  {
+    "line": [
+      1101.0,
+      1279.0,
+      1039.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_130",
+    "group": "example"
+  },
+  {
+    "line": [
+      1039.0,
+      1279.0,
+      1039.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_130",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      1228.0,
+      1236.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_132",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      1228.0,
+      1236.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_132",
+    "group": "example"
+  },
+  {
+    "line": [
+      1236.0,
+      1279.0,
+      1174.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_132",
+    "group": "example"
+  },
+  {
+    "line": [
+      1174.0,
+      1279.0,
+      1174.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_132",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      1228.0,
+      1371.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_134",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      1228.0,
+      1371.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_134",
+    "group": "example"
+  },
+  {
+    "line": [
+      1371.0,
+      1279.0,
+      1309.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_134",
+    "group": "example"
+  },
+  {
+    "line": [
+      1309.0,
+      1279.0,
+      1309.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_134",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      1228.0,
+      1506.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_136",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      1228.0,
+      1506.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_136",
+    "group": "example"
+  },
+  {
+    "line": [
+      1506.0,
+      1279.0,
+      1444.0,
+      1279.0
+    ],
+    "width": 2.5,
+    "command_id": "old_136",
+    "group": "example"
+  },
+  {
+    "line": [
+      1444.0,
+      1279.0,
+      1444.0,
+      1228.0
+    ],
+    "width": 2.5,
+    "command_id": "old_136",
+    "group": "example"
+  },
+  {
+    "line": [
+      136.0,
+      1235.0,
+      184.0,
+      1235.0
+    ],
+    "width": 4.0,
+    "command_id": "old_138",
+    "group": "puzzle.marker"
+  },
+  {
+    "line": [
+      184.0,
+      1235.0,
+      184.0,
+      1283.0
+    ],
+    "width": 4.0,
+    "command_id": "old_138",
+    "group": "puzzle.marker"
+  },
+  {
+    "line": [
+      184.0,
+      1283.0,
+      136.0,
+      1283.0
+    ],
+    "width": 4.0,
+    "command_id": "old_138",
+    "group": "puzzle.marker"
+  },
+  {
+    "line": [
+      136.0,
+      1283.0,
+      136.0,
+      1235.0
+    ],
+    "width": 4.0,
+    "command_id": "old_138",
+    "group": "puzzle.marker"
+  },
+  {
+    "line": [
+      200.0,
+      1700.0,
+      1488.0,
+      1700.0
+    ],
+    "width": 4.0,
+    "command_id": "old_140",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1488.0,
+      1700.0,
+      1488.0,
+      1756.0
+    ],
+    "width": 4.0,
+    "command_id": "old_140",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1488.0,
+      1756.0,
+      200.0,
+      1756.0
+    ],
+    "width": 4.0,
+    "command_id": "old_140",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      200.0,
+      1756.0,
+      200.0,
+      1700.0
+    ],
+    "width": 4.0,
+    "command_id": "old_140",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      292.0,
+      1756.0,
+      292.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_142",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      292.0,
+      1700.0,
+      292.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_144",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      384.0,
+      1756.0,
+      384.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_146",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      384.0,
+      1700.0,
+      384.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_148",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      476.0,
+      1756.0,
+      476.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_150",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      476.0,
+      1700.0,
+      476.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_152",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      568.0,
+      1756.0,
+      568.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_154",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      568.0,
+      1700.0,
+      568.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_156",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      660.0,
+      1756.0,
+      660.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_158",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      660.0,
+      1700.0,
+      660.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_160",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      752.0,
+      1756.0,
+      752.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_162",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      752.0,
+      1700.0,
+      752.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_164",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      844.0,
+      1756.0,
+      844.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_166",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      844.0,
+      1700.0,
+      844.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_168",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      936.0,
+      1756.0,
+      936.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_170",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      936.0,
+      1700.0,
+      936.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_172",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1028.0,
+      1756.0,
+      1028.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_174",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1028.0,
+      1700.0,
+      1028.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_176",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1120.0,
+      1756.0,
+      1120.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_178",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1120.0,
+      1700.0,
+      1120.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_180",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1212.0,
+      1756.0,
+      1212.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_182",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1212.0,
+      1700.0,
+      1212.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_184",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1304.0,
+      1756.0,
+      1304.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_186",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1304.0,
+      1700.0,
+      1304.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_188",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1396.0,
+      1756.0,
+      1396.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_190",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1396.0,
+      1700.0,
+      1396.0,
+      1756.0
+    ],
+    "width": 1.5,
+    "command_id": "old_192",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1488.0,
+      1756.0,
+      1488.0,
+      1772.0
+    ],
+    "width": 1.5,
+    "command_id": "old_194",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      200.0,
+      1690.0,
+      200.0,
+      1678.0
+    ],
+    "width": 2.5,
+    "command_id": "old_196",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      200.0,
+      1678.0,
+      1488.0,
+      1678.0
+    ],
+    "width": 2.5,
+    "command_id": "old_197",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      1488.0,
+      1678.0,
+      1488.0,
+      1690.0
+    ],
+    "width": 2.5,
+    "command_id": "old_198",
+    "group": "puzzle.tape.0"
+  },
+  {
+    "line": [
+      200.0,
+      1880.0,
+      1488.0,
+      1880.0
+    ],
+    "width": 4.0,
+    "command_id": "old_201",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1488.0,
+      1880.0,
+      1488.0,
+      1936.0
+    ],
+    "width": 4.0,
+    "command_id": "old_201",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1488.0,
+      1936.0,
+      200.0,
+      1936.0
+    ],
+    "width": 4.0,
+    "command_id": "old_201",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      200.0,
+      1936.0,
+      200.0,
+      1880.0
+    ],
+    "width": 4.0,
+    "command_id": "old_201",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      292.0,
+      1936.0,
+      292.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_203",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      292.0,
+      1880.0,
+      292.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_205",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      384.0,
+      1936.0,
+      384.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_207",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      384.0,
+      1880.0,
+      384.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_209",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      476.0,
+      1936.0,
+      476.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_211",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      476.0,
+      1880.0,
+      476.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_213",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      568.0,
+      1936.0,
+      568.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_215",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      568.0,
+      1880.0,
+      568.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_217",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      660.0,
+      1936.0,
+      660.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_219",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      660.0,
+      1880.0,
+      660.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_221",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      752.0,
+      1936.0,
+      752.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_223",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      752.0,
+      1880.0,
+      752.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_225",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      844.0,
+      1936.0,
+      844.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_227",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      844.0,
+      1880.0,
+      844.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_229",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      936.0,
+      1936.0,
+      936.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_231",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      936.0,
+      1880.0,
+      936.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_233",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1028.0,
+      1936.0,
+      1028.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_235",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1028.0,
+      1880.0,
+      1028.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_237",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1120.0,
+      1936.0,
+      1120.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_239",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1120.0,
+      1880.0,
+      1120.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_241",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1212.0,
+      1936.0,
+      1212.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_243",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1212.0,
+      1880.0,
+      1212.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_245",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1304.0,
+      1936.0,
+      1304.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_247",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1304.0,
+      1880.0,
+      1304.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_249",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1396.0,
+      1936.0,
+      1396.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_251",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1396.0,
+      1880.0,
+      1396.0,
+      1936.0
+    ],
+    "width": 1.5,
+    "command_id": "old_253",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1488.0,
+      1936.0,
+      1488.0,
+      1952.0
+    ],
+    "width": 1.5,
+    "command_id": "old_255",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      200.0,
+      1870.0,
+      200.0,
+      1858.0
+    ],
+    "width": 2.5,
+    "command_id": "old_257",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      200.0,
+      1858.0,
+      1488.0,
+      1858.0
+    ],
+    "width": 2.5,
+    "command_id": "old_258",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      1488.0,
+      1858.0,
+      1488.0,
+      1870.0
+    ],
+    "width": 2.5,
+    "command_id": "old_259",
+    "group": "puzzle.tape.1"
+  },
+  {
+    "line": [
+      435.0,
+      399.0,
+      435.0,
+      439.0
+    ],
+    "width": 2.5,
+    "command_id": "old_358",
+    "group": "example.partition_inventory.A",
+    "arrow": 9
+  },
+  {
+    "line": [
+      620.0,
+      399.0,
+      655.0,
+      439.0
+    ],
+    "width": 2.5,
+    "command_id": "old_359",
+    "group": "example.partition_inventory.A",
+    "arrow": 9
+  },
+  {
+    "line": [
+      1090.0,
+      399.0,
+      1140.0,
+      439.0
+    ],
+    "width": 2.5,
+    "command_id": "old_365",
+    "group": "example.partition_inventory.B",
+    "arrow": 9
+  },
+  {
+    "line": [
+      1305.0,
+      399.0,
+      1305.0,
+      439.0
+    ],
+    "width": 2.5,
+    "command_id": "old_366",
+    "group": "example.partition_inventory.B",
+    "arrow": 9
+  },
+  {
+    "line": [
+      145.0,
+      944.0,
+      395.0,
+      944.0
+    ],
+    "width": 2.5,
+    "command_id": "old_367",
+    "group": "example.inventory.T"
+  },
+  {
+    "line": [
+      395.0,
+      944.0,
+      395.0,
+      992.0
+    ],
+    "width": 2.5,
+    "command_id": "old_367",
+    "group": "example.inventory.T"
+  },
+  {
+    "line": [
+      395.0,
+      992.0,
+      145.0,
+      992.0
+    ],
+    "width": 2.5,
+    "command_id": "old_367",
+    "group": "example.inventory.T"
+  },
+  {
+    "line": [
+      145.0,
+      992.0,
+      145.0,
+      944.0
+    ],
+    "width": 2.5,
+    "command_id": "old_367",
+    "group": "example.inventory.T"
+  },
+  {
+    "line": [
+      200.0,
+      953.0,
+      200.0,
+      983.0
+    ],
+    "width": 1.5,
+    "command_id": "old_369",
+    "group": "example.inventory.T"
+  },
+  {
+    "line": [
+      278.0,
+      968.0,
+      302.0,
+      968.0
+    ],
+    "width": 2.5,
+    "command_id": "old_371",
+    "group": "example.inventory.T"
+  },
+  {
+    "line": [
+      145.0,
+      1039.0,
+      395.0,
+      1039.0
+    ],
+    "width": 2.5,
+    "command_id": "old_373",
+    "group": "example.inventory.C"
+  },
+  {
+    "line": [
+      395.0,
+      1039.0,
+      395.0,
+      1087.0
+    ],
+    "width": 2.5,
+    "command_id": "old_373",
+    "group": "example.inventory.C"
+  },
+  {
+    "line": [
+      395.0,
+      1087.0,
+      145.0,
+      1087.0
+    ],
+    "width": 2.5,
+    "command_id": "old_373",
+    "group": "example.inventory.C"
+  },
+  {
+    "line": [
+      145.0,
+      1087.0,
+      145.0,
+      1039.0
+    ],
+    "width": 2.5,
+    "command_id": "old_373",
+    "group": "example.inventory.C"
+  },
+  {
+    "line": [
+      200.0,
+      1048.0,
+      200.0,
+      1078.0
+    ],
+    "width": 1.5,
+    "command_id": "old_375",
+    "group": "example.inventory.C"
+  },
+  {
+    "line": [
+      278.0,
+      1063.0,
+      302.0,
+      1063.0
+    ],
+    "width": 2.5,
+    "command_id": "old_377",
+    "group": "example.inventory.C"
+  },
+  {
+    "line": [
+      145.0,
+      1134.0,
+      395.0,
+      1134.0
+    ],
+    "width": 2.5,
+    "command_id": "old_379",
+    "group": "example.inventory.A"
+  },
+  {
+    "line": [
+      395.0,
+      1134.0,
+      395.0,
+      1182.0
+    ],
+    "width": 2.5,
+    "command_id": "old_379",
+    "group": "example.inventory.A"
+  },
+  {
+    "line": [
+      395.0,
+      1182.0,
+      145.0,
+      1182.0
+    ],
+    "width": 2.5,
+    "command_id": "old_379",
+    "group": "example.inventory.A"
+  },
+  {
+    "line": [
+      145.0,
+      1182.0,
+      145.0,
+      1134.0
+    ],
+    "width": 2.5,
+    "command_id": "old_379",
+    "group": "example.inventory.A"
+  },
+  {
+    "line": [
+      200.0,
+      1143.0,
+      200.0,
+      1173.0
+    ],
+    "width": 1.5,
+    "command_id": "old_381",
+    "group": "example.inventory.A"
+  },
+  {
+    "line": [
+      278.0,
+      1158.0,
+      302.0,
+      1158.0
+    ],
+    "width": 2.5,
+    "command_id": "old_383",
+    "group": "example.inventory.A"
+  },
+  {
+    "line": [
+      485.0,
+      944.0,
+      755.0,
+      944.0
+    ],
+    "width": 2.5,
+    "command_id": "old_385",
+    "group": "example.transition.C"
+  },
+  {
+    "line": [
+      755.0,
+      944.0,
+      755.0,
+      992.0
+    ],
+    "width": 2.5,
+    "command_id": "old_385",
+    "group": "example.transition.C"
+  },
+  {
+    "line": [
+      755.0,
+      992.0,
+      485.0,
+      992.0
+    ],
+    "width": 2.5,
+    "command_id": "old_385",
+    "group": "example.transition.C"
+  },
+  {
+    "line": [
+      485.0,
+      992.0,
+      485.0,
+      944.0
+    ],
+    "width": 2.5,
+    "command_id": "old_385",
+    "group": "example.transition.C"
+  },
+  {
+    "line": [
+      542.0,
+      953.0,
+      542.0,
+      983.0
+    ],
+    "width": 1.5,
+    "command_id": "old_387",
+    "group": "example.transition.C"
+  },
+  {
+    "line": [
+      621.0,
+      968.0,
+      645.0,
+      968.0
+    ],
+    "width": 2.5,
+    "command_id": "old_389",
+    "group": "example.transition.C"
+  },
+  {
+    "line": [
+      775.0,
+      968.0,
+      1018.0,
+      968.0
+    ],
+    "width": 2.5,
+    "command_id": "old_392",
+    "group": "example.transition.C",
+    "arrow": 10
+  },
+  {
+    "line": [
+      406.0,
+      1063.0,
+      474.0,
+      968.0
+    ],
+    "width": 2.5,
+    "command_id": "old_393",
+    "group": "example.transition.C",
+    "arrow": 10
+  },
+  {
+    "line": [
+      512.0,
+      999.0,
+      512.0,
+      1031.0
+    ],
+    "width": 2.5,
+    "command_id": "old_394",
+    "group": "example.transition.C",
+    "arrow": 9
+  },
+  {
+    "line": [
+      485.0,
+      1039.0,
+      755.0,
+      1039.0
+    ],
+    "width": 2.5,
+    "command_id": "old_395",
+    "group": "example.transition.A"
+  },
+  {
+    "line": [
+      755.0,
+      1039.0,
+      755.0,
+      1087.0
+    ],
+    "width": 2.5,
+    "command_id": "old_395",
+    "group": "example.transition.A"
+  },
+  {
+    "line": [
+      755.0,
+      1087.0,
+      485.0,
+      1087.0
+    ],
+    "width": 2.5,
+    "command_id": "old_395",
+    "group": "example.transition.A"
+  },
+  {
+    "line": [
+      485.0,
+      1087.0,
+      485.0,
+      1039.0
+    ],
+    "width": 2.5,
+    "command_id": "old_395",
+    "group": "example.transition.A"
+  },
+  {
+    "line": [
+      542.0,
+      1048.0,
+      542.0,
+      1078.0
+    ],
+    "width": 1.5,
+    "command_id": "old_397",
+    "group": "example.transition.A"
+  },
+  {
+    "line": [
+      621.0,
+      1063.0,
+      645.0,
+      1063.0
+    ],
+    "width": 2.5,
+    "command_id": "old_399",
+    "group": "example.transition.A"
+  },
+  {
+    "line": [
+      775.0,
+      1063.0,
+      1018.0,
+      1063.0
+    ],
+    "width": 2.5,
+    "command_id": "old_402",
+    "group": "example.transition.A",
+    "arrow": 10
+  },
+  {
+    "line": [
+      406.0,
+      1158.0,
+      474.0,
+      1063.0
+    ],
+    "width": 2.5,
+    "command_id": "old_403",
+    "group": "example.transition.A",
+    "arrow": 10
+  },
+  {
+    "line": [
+      512.0,
+      1094.0,
+      512.0,
+      1126.0
+    ],
+    "width": 2.5,
+    "command_id": "old_404",
+    "group": "example.transition.A",
+    "arrow": 9
+  },
+  {
+    "line": [
+      485.0,
+      1134.0,
+      755.0,
+      1134.0
+    ],
+    "width": 2.5,
+    "command_id": "old_405",
+    "group": "example.transition.T"
+  },
+  {
+    "line": [
+      755.0,
+      1134.0,
+      755.0,
+      1182.0
+    ],
+    "width": 2.5,
+    "command_id": "old_405",
+    "group": "example.transition.T"
+  },
+  {
+    "line": [
+      755.0,
+      1182.0,
+      485.0,
+      1182.0
+    ],
+    "width": 2.5,
+    "command_id": "old_405",
+    "group": "example.transition.T"
+  },
+  {
+    "line": [
+      485.0,
+      1182.0,
+      485.0,
+      1134.0
+    ],
+    "width": 2.5,
+    "command_id": "old_405",
+    "group": "example.transition.T"
+  },
+  {
+    "line": [
+      542.0,
+      1143.0,
+      542.0,
+      1173.0
+    ],
+    "width": 1.5,
+    "command_id": "old_407",
+    "group": "example.transition.T"
+  },
+  {
+    "line": [
+      621.0,
+      1158.0,
+      645.0,
+      1158.0
+    ],
+    "width": 2.5,
+    "command_id": "old_409",
+    "group": "example.transition.T"
+  },
+  {
+    "line": [
+      775.0,
+      1158.0,
+      1018.0,
+      1158.0
+    ],
+    "width": 2.5,
+    "command_id": "old_412",
+    "group": "example.transition.T",
+    "arrow": 10
+  },
+  {
+    "line": [
+      406.0,
+      968.0,
+      474.0,
+      1158.0
+    ],
+    "width": 2.5,
+    "command_id": "old_413",
+    "group": "example.transition.T",
+    "arrow": 10
+  },
+  {
+    "line": [
+      512.0,
+      1189.0,
+      512.0,
+      1225.0
+    ],
+    "width": 2.5,
+    "command_id": "old_414",
+    "group": "example.transition.T",
+    "arrow": 9
+  },
+  {
+    "line": [
+      488.0,
+      1277.0,
+      536.0,
+      1277.0
+    ],
+    "width": 2.5,
+    "command_id": "old_416",
+    "group": "example.output"
+  },
+  {
+    "line": [
+      548.0,
+      1248.0,
+      577.0,
+      1248.0
+    ],
+    "width": 2.5,
+    "command_id": "old_417",
+    "group": "example.output",
+    "arrow": 9
+  },
+  {
+    "line": [
+      588.0,
+      1277.0,
+      636.0,
+      1277.0
+    ],
+    "width": 2.5,
+    "command_id": "old_419",
+    "group": "example.output"
+  },
+  {
+    "line": [
+      648.0,
+      1248.0,
+      677.0,
+      1248.0
+    ],
+    "width": 2.5,
+    "command_id": "old_420",
+    "group": "example.output",
+    "arrow": 9
+  },
+  {
+    "line": [
+      688.0,
+      1277.0,
+      736.0,
+      1277.0
+    ],
+    "width": 2.5,
+    "command_id": "old_422",
+    "group": "example.output"
+  },
+  {
+    "line": [
+      245.0,
+      2008.0,
+      293.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_423",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      293.0,
+      2008.0,
+      293.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_423",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      293.0,
+      2050.0,
+      245.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_423",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      245.0,
+      2050.0,
+      245.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_423",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      300.0,
+      2029.0,
+      321.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_424",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      328.0,
+      2008.0,
+      376.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_425",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      376.0,
+      2008.0,
+      376.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_425",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      376.0,
+      2050.0,
+      328.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_425",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      328.0,
+      2050.0,
+      328.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_425",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      383.0,
+      2029.0,
+      404.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_426",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      411.0,
+      2008.0,
+      459.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_427",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      459.0,
+      2008.0,
+      459.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_427",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      459.0,
+      2050.0,
+      411.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_427",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      411.0,
+      2050.0,
+      411.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_427",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      466.0,
+      2029.0,
+      487.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_428",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      494.0,
+      2008.0,
+      542.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_429",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      542.0,
+      2008.0,
+      542.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_429",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      542.0,
+      2050.0,
+      494.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_429",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      494.0,
+      2050.0,
+      494.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_429",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      549.0,
+      2029.0,
+      570.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_430",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      577.0,
+      2008.0,
+      625.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_431",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      625.0,
+      2008.0,
+      625.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_431",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      625.0,
+      2050.0,
+      577.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_431",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      577.0,
+      2050.0,
+      577.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_431",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      632.0,
+      2029.0,
+      653.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_432",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      660.0,
+      2008.0,
+      708.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_433",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      708.0,
+      2008.0,
+      708.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_433",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      708.0,
+      2050.0,
+      660.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_433",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      660.0,
+      2050.0,
+      660.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_433",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      715.0,
+      2029.0,
+      736.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_434",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      743.0,
+      2008.0,
+      791.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_435",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      791.0,
+      2008.0,
+      791.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_435",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      791.0,
+      2050.0,
+      743.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_435",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      743.0,
+      2050.0,
+      743.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_435",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      798.0,
+      2029.0,
+      819.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_436",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      826.0,
+      2008.0,
+      874.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_437",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      874.0,
+      2008.0,
+      874.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_437",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      874.0,
+      2050.0,
+      826.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_437",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      826.0,
+      2050.0,
+      826.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_437",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      881.0,
+      2029.0,
+      902.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_438",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      909.0,
+      2008.0,
+      957.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_439",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      957.0,
+      2008.0,
+      957.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_439",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      957.0,
+      2050.0,
+      909.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_439",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      909.0,
+      2050.0,
+      909.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_439",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      964.0,
+      2029.0,
+      985.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_440",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      992.0,
+      2008.0,
+      1040.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_441",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1040.0,
+      2008.0,
+      1040.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_441",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1040.0,
+      2050.0,
+      992.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_441",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      992.0,
+      2050.0,
+      992.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_441",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1047.0,
+      2029.0,
+      1068.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_442",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      1075.0,
+      2008.0,
+      1123.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_443",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1123.0,
+      2008.0,
+      1123.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_443",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1123.0,
+      2050.0,
+      1075.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_443",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1075.0,
+      2050.0,
+      1075.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_443",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1130.0,
+      2029.0,
+      1151.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_444",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      1158.0,
+      2008.0,
+      1206.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_445",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1206.0,
+      2008.0,
+      1206.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_445",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1206.0,
+      2050.0,
+      1158.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_445",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1158.0,
+      2050.0,
+      1158.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_445",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1213.0,
+      2029.0,
+      1234.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_446",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      1241.0,
+      2008.0,
+      1289.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_447",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1289.0,
+      2008.0,
+      1289.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_447",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1289.0,
+      2050.0,
+      1241.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_447",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1241.0,
+      2050.0,
+      1241.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_447",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1296.0,
+      2029.0,
+      1317.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_448",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      1324.0,
+      2008.0,
+      1372.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_449",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1372.0,
+      2008.0,
+      1372.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_449",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1372.0,
+      2050.0,
+      1324.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_449",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1324.0,
+      2050.0,
+      1324.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_449",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1379.0,
+      2029.0,
+      1400.0,
+      2029.0
+    ],
+    "width": 2.5,
+    "command_id": "old_450",
+    "group": "puzzle.answer_slots",
+    "arrow": 8
+  },
+  {
+    "line": [
+      1407.0,
+      2008.0,
+      1455.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_451",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1455.0,
+      2008.0,
+      1455.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_451",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1455.0,
+      2050.0,
+      1407.0,
+      2050.0
+    ],
+    "width": 2.5,
+    "command_id": "old_451",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1407.0,
+      2050.0,
+      1407.0,
+      2008.0
+    ],
+    "width": 2.5,
+    "command_id": "old_451",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      255.0,
+      2038.0,
+      283.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_466",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      338.0,
+      2038.0,
+      366.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_467",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      421.0,
+      2038.0,
+      449.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_468",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      504.0,
+      2038.0,
+      532.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_469",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      587.0,
+      2038.0,
+      615.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_470",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      670.0,
+      2038.0,
+      698.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_471",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      753.0,
+      2038.0,
+      781.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_472",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      836.0,
+      2038.0,
+      864.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_473",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      919.0,
+      2038.0,
+      947.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_474",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1002.0,
+      2038.0,
+      1030.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_475",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1085.0,
+      2038.0,
+      1113.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_476",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1168.0,
+      2038.0,
+      1196.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_477",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1251.0,
+      2038.0,
+      1279.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_478",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1334.0,
+      2038.0,
+      1362.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_479",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      1417.0,
+      2038.0,
+      1445.0,
+      2038.0
+    ],
+    "width": 2.5,
+    "command_id": "old_480",
+    "group": "puzzle.answer_slots"
+  },
+  {
+    "line": [
+      596.0,
+      480.0,
+      714.0,
+      480.0
+    ],
+    "width": 2.5,
+    "command_id": "area_414",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      714.0,
+      480.0,
+      714.0,
+      502.0
+    ],
+    "width": 2.5,
+    "command_id": "area_414",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      714.0,
+      502.0,
+      596.0,
+      502.0
+    ],
+    "width": 2.5,
+    "command_id": "area_414",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      596.0,
+      502.0,
+      596.0,
+      480.0
+    ],
+    "width": 2.5,
+    "command_id": "area_414",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1026.0,
+      480.0,
+      1254.0,
+      480.0
+    ],
+    "width": 2.5,
+    "command_id": "area_415",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1254.0,
+      480.0,
+      1254.0,
+      502.0
+    ],
+    "width": 2.5,
+    "command_id": "area_415",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1254.0,
+      502.0,
+      1026.0,
+      502.0
+    ],
+    "width": 2.5,
+    "command_id": "area_415",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1026.0,
+      502.0,
+      1026.0,
+      480.0
+    ],
+    "width": 2.5,
+    "command_id": "area_415",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1020.0,
+      474.0,
+      1260.0,
+      474.0
+    ],
+    "width": 1.5,
+    "command_id": "area_416",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1260.0,
+      474.0,
+      1260.0,
+      508.0
+    ],
+    "width": 1.5,
+    "command_id": "area_416",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1260.0,
+      508.0,
+      1020.0,
+      508.0
+    ],
+    "width": 1.5,
+    "command_id": "area_416",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1020.0,
+      508.0,
+      1020.0,
+      474.0
+    ],
+    "width": 1.5,
+    "command_id": "area_416",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      710.0,
+      672.0,
+      710.0,
+      677.0
+    ],
+    "width": 2.5,
+    "command_id": "area_417",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      710.0,
+      677.0,
+      1515.0,
+      677.0
+    ],
+    "width": 2.5,
+    "command_id": "area_418",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1515.0,
+      677.0,
+      1515.0,
+      355.0
+    ],
+    "width": 2.5,
+    "command_id": "area_419",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1515.0,
+      355.0,
+      1185.0,
+      355.0
+    ],
+    "width": 2.5,
+    "command_id": "area_420",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1185.0,
+      355.0,
+      1185.0,
+      474.0
+    ],
+    "width": 2.5,
+    "command_id": "area_421",
+    "group": "example.spatial_rule",
+    "arrow": 10
+  },
+  {
+    "line": [
+      1216.0,
+      637.0,
+      1190.0,
+      637.0
+    ],
+    "width": 2.5,
+    "command_id": "area_422",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1190.0,
+      637.0,
+      1190.0,
+      610.0
+    ],
+    "width": 2.5,
+    "command_id": "area_423",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1190.0,
+      610.0,
+      802.0,
+      610.0
+    ],
+    "width": 2.5,
+    "command_id": "area_424",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      802.0,
+      610.0,
+      802.0,
+      491.0
+    ],
+    "width": 2.5,
+    "command_id": "area_425",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      802.0,
+      491.0,
+      714.0,
+      491.0
+    ],
+    "width": 2.5,
+    "command_id": "area_426",
+    "group": "example.spatial_rule",
+    "arrow": 10
+  },
+  {
+    "line": [
+      795.0,
+      775.0,
+      831.0,
+      775.0
+    ],
+    "width": 2.5,
+    "command_id": "area_431",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      831.0,
+      775.0,
+      831.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_431",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      831.0,
+      811.0,
+      795.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_431",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      795.0,
+      811.0,
+      795.0,
+      775.0
+    ],
+    "width": 2.5,
+    "command_id": "area_431",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      795.0,
+      825.0,
+      831.0,
+      825.0
+    ],
+    "width": 2.5,
+    "command_id": "area_432",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      795.0,
+      819.0,
+      795.0,
+      831.0
+    ],
+    "width": 2.5,
+    "command_id": "area_433",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      831.0,
+      819.0,
+      831.0,
+      831.0
+    ],
+    "width": 2.5,
+    "command_id": "area_434",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      765.0,
+      775.0,
+      779.0,
+      775.0
+    ],
+    "width": 2.5,
+    "command_id": "area_436",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      779.0,
+      775.0,
+      779.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_436",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      779.0,
+      811.0,
+      765.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_436",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      765.0,
+      811.0,
+      765.0,
+      775.0
+    ],
+    "width": 2.5,
+    "command_id": "area_436",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1165.0,
+      739.0,
+      1237.0,
+      739.0
+    ],
+    "width": 2.5,
+    "command_id": "area_437",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1237.0,
+      739.0,
+      1237.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_437",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1237.0,
+      811.0,
+      1165.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_437",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1165.0,
+      811.0,
+      1165.0,
+      739.0
+    ],
+    "width": 2.5,
+    "command_id": "area_437",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1201.0,
+      739.0,
+      1201.0,
+      811.0
+    ],
+    "width": 1.5,
+    "command_id": "area_438",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1165.0,
+      775.0,
+      1237.0,
+      775.0
+    ],
+    "width": 1.5,
+    "command_id": "area_439",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1165.0,
+      825.0,
+      1237.0,
+      825.0
+    ],
+    "width": 2.5,
+    "command_id": "area_440",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1165.0,
+      819.0,
+      1165.0,
+      831.0
+    ],
+    "width": 2.5,
+    "command_id": "area_441",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1237.0,
+      819.0,
+      1237.0,
+      831.0
+    ],
+    "width": 2.5,
+    "command_id": "area_442",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1135.0,
+      739.0,
+      1149.0,
+      739.0
+    ],
+    "width": 2.5,
+    "command_id": "area_444",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1149.0,
+      739.0,
+      1149.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_444",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1149.0,
+      811.0,
+      1135.0,
+      811.0
+    ],
+    "width": 2.5,
+    "command_id": "area_444",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1135.0,
+      811.0,
+      1135.0,
+      739.0
+    ],
+    "width": 2.5,
+    "command_id": "area_444",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1129.0,
+      733.0,
+      1155.0,
+      733.0
+    ],
+    "width": 1.5,
+    "command_id": "area_445",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1155.0,
+      733.0,
+      1155.0,
+      817.0
+    ],
+    "width": 1.5,
+    "command_id": "area_445",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1155.0,
+      817.0,
+      1129.0,
+      817.0
+    ],
+    "width": 1.5,
+    "command_id": "area_445",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1129.0,
+      817.0,
+      1129.0,
+      733.0
+    ],
+    "width": 1.5,
+    "command_id": "area_445",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      1135.0,
+      775.0,
+      1149.0,
+      775.0
+    ],
+    "width": 1.5,
+    "command_id": "area_446",
+    "group": "example.spatial_rule"
+  },
+  {
+    "line": [
+      385.0,
+      1350.0,
+      508.0,
+      1350.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_0_0",
+    "group": "puzzle.card.0"
+  },
+  {
+    "line": [
+      552.0,
+      1350.0,
+      615.0,
+      1350.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_0_1",
+    "group": "puzzle.card.0"
+  },
+  {
+    "line": [
+      508.0,
+      1328.0,
+      552.0,
+      1328.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_0",
+    "group": "puzzle.card.0"
+  },
+  {
+    "line": [
+      552.0,
+      1328.0,
+      552.0,
+      1372.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_0",
+    "group": "puzzle.card.0"
+  },
+  {
+    "line": [
+      552.0,
+      1372.0,
+      508.0,
+      1372.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_0",
+    "group": "puzzle.card.0"
+  },
+  {
+    "line": [
+      508.0,
+      1372.0,
+      508.0,
+      1328.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_0",
+    "group": "puzzle.card.0"
+  },
+  {
+    "line": [
+      935.0,
+      1459.0,
+      1053.0,
+      1455.63
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_1_0",
+    "group": "puzzle.card.1"
+  },
+  {
+    "line": [
+      1097.0,
+      1454.37,
+      1215.0,
+      1451.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_1_1",
+    "group": "puzzle.card.1"
+  },
+  {
+    "line": [
+      1053.0,
+      1433.0,
+      1097.0,
+      1433.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_1",
+    "group": "puzzle.card.1"
+  },
+  {
+    "line": [
+      1097.0,
+      1433.0,
+      1097.0,
+      1477.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_1",
+    "group": "puzzle.card.1"
+  },
+  {
+    "line": [
+      1097.0,
+      1477.0,
+      1053.0,
+      1477.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_1",
+    "group": "puzzle.card.1"
+  },
+  {
+    "line": [
+      1053.0,
+      1477.0,
+      1053.0,
+      1433.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_1",
+    "group": "puzzle.card.1"
+  },
+  {
+    "line": [
+      900.0,
+      1437.0,
+      900.0,
+      1310.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_2_0",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      900.0,
+      1310.0,
+      452.0,
+      1310.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_2_1",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      408.0,
+      1310.0,
+      180.0,
+      1310.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_2_2",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      180.0,
+      1310.0,
+      180.0,
+      1457.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_2_3",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      408.0,
+      1288.0,
+      452.0,
+      1288.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_2",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      452.0,
+      1288.0,
+      452.0,
+      1332.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_2",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      452.0,
+      1332.0,
+      408.0,
+      1332.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_2",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      408.0,
+      1332.0,
+      408.0,
+      1288.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_2",
+    "group": "puzzle.card.2"
+  },
+  {
+    "line": [
+      317.42,
+      1577.0,
+      287.0,
+      1555.53
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_3_0",
+    "group": "puzzle.card.3"
+  },
+  {
+    "line": [
+      243.0,
+      1524.47,
+      212.58,
+      1503.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_3_1",
+    "group": "puzzle.card.3"
+  },
+  {
+    "line": [
+      243.0,
+      1518.0,
+      287.0,
+      1518.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_3",
+    "group": "puzzle.card.3"
+  },
+  {
+    "line": [
+      287.0,
+      1518.0,
+      287.0,
+      1562.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_3",
+    "group": "puzzle.card.3"
+  },
+  {
+    "line": [
+      287.0,
+      1562.0,
+      243.0,
+      1562.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_3",
+    "group": "puzzle.card.3"
+  },
+  {
+    "line": [
+      243.0,
+      1562.0,
+      243.0,
+      1518.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_3",
+    "group": "puzzle.card.3"
+  },
+  {
+    "line": [
+      1435.0,
+      1550.91,
+      1382.0,
+      1522.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_4_0",
+    "group": "puzzle.card.4"
+  },
+  {
+    "line": [
+      1338.0,
+      1498.0,
+      1285.0,
+      1469.09
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_4_1",
+    "group": "puzzle.card.4"
+  },
+  {
+    "line": [
+      1338.0,
+      1488.0,
+      1382.0,
+      1488.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_4",
+    "group": "puzzle.card.4"
+  },
+  {
+    "line": [
+      1382.0,
+      1488.0,
+      1382.0,
+      1532.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_4",
+    "group": "puzzle.card.4"
+  },
+  {
+    "line": [
+      1382.0,
+      1532.0,
+      1338.0,
+      1532.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_4",
+    "group": "puzzle.card.4"
+  },
+  {
+    "line": [
+      1338.0,
+      1532.0,
+      1338.0,
+      1488.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_4",
+    "group": "puzzle.card.4"
+  },
+  {
+    "line": [
+      319.92,
+      1373.0,
+      287.0,
+      1398.18
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_5_0",
+    "group": "puzzle.card.5"
+  },
+  {
+    "line": [
+      243.0,
+      1431.82,
+      210.08,
+      1457.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_5_1",
+    "group": "puzzle.card.5"
+  },
+  {
+    "line": [
+      243.0,
+      1393.0,
+      287.0,
+      1393.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_5",
+    "group": "puzzle.card.5"
+  },
+  {
+    "line": [
+      287.0,
+      1393.0,
+      287.0,
+      1437.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_5",
+    "group": "puzzle.card.5"
+  },
+  {
+    "line": [
+      287.0,
+      1437.0,
+      243.0,
+      1437.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_5",
+    "group": "puzzle.card.5"
+  },
+  {
+    "line": [
+      243.0,
+      1437.0,
+      243.0,
+      1393.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_5",
+    "group": "puzzle.card.5"
+  },
+  {
+    "line": [
+      865.0,
+      1474.0,
+      754.5,
+      1518.2
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_6_0",
+    "group": "puzzle.card.6"
+  },
+  {
+    "line": [
+      710.5,
+      1535.8,
+      685.0,
+      1546.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_6_1",
+    "group": "puzzle.card.6"
+  },
+  {
+    "line": [
+      710.5,
+      1505.0,
+      754.5,
+      1505.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_6",
+    "group": "puzzle.card.6"
+  },
+  {
+    "line": [
+      754.5,
+      1505.0,
+      754.5,
+      1549.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_6",
+    "group": "puzzle.card.6"
+  },
+  {
+    "line": [
+      754.5,
+      1549.0,
+      710.5,
+      1549.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_6",
+    "group": "puzzle.card.6"
+  },
+  {
+    "line": [
+      710.5,
+      1549.0,
+      710.5,
+      1505.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_6",
+    "group": "puzzle.card.6"
+  },
+  {
+    "line": [
+      1085.0,
+      1359.25,
+      1128.0,
+      1382.9
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_7_0",
+    "group": "puzzle.card.7"
+  },
+  {
+    "line": [
+      1172.0,
+      1407.1,
+      1215.0,
+      1430.75
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_7_1",
+    "group": "puzzle.card.7"
+  },
+  {
+    "line": [
+      1128.0,
+      1373.0,
+      1172.0,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_7",
+    "group": "puzzle.card.7"
+  },
+  {
+    "line": [
+      1172.0,
+      1373.0,
+      1172.0,
+      1417.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_7",
+    "group": "puzzle.card.7"
+  },
+  {
+    "line": [
+      1172.0,
+      1417.0,
+      1128.0,
+      1417.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_7",
+    "group": "puzzle.card.7"
+  },
+  {
+    "line": [
+      1128.0,
+      1417.0,
+      1128.0,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_7",
+    "group": "puzzle.card.7"
+  },
+  {
+    "line": [
+      865.0,
+      1482.4,
+      737.0,
+      1564.32
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_8_0",
+    "group": "puzzle.card.8"
+  },
+  {
+    "line": [
+      693.0,
+      1592.48,
+      685.0,
+      1597.6
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_8_1",
+    "group": "puzzle.card.8"
+  },
+  {
+    "line": [
+      693.0,
+      1556.4,
+      737.0,
+      1556.4
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_8",
+    "group": "puzzle.card.8"
+  },
+  {
+    "line": [
+      737.0,
+      1556.4,
+      737.0,
+      1600.4
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_8",
+    "group": "puzzle.card.8"
+  },
+  {
+    "line": [
+      737.0,
+      1600.4,
+      693.0,
+      1600.4
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_8",
+    "group": "puzzle.card.8"
+  },
+  {
+    "line": [
+      693.0,
+      1600.4,
+      693.0,
+      1556.4
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_8",
+    "group": "puzzle.card.8"
+  },
+  {
+    "line": [
+      865.0,
+      1444.6,
+      834.5,
+      1431.18
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_9_0",
+    "group": "puzzle.card.9"
+  },
+  {
+    "line": [
+      790.5,
+      1411.82,
+      685.0,
+      1365.4
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_9_1",
+    "group": "puzzle.card.9"
+  },
+  {
+    "line": [
+      790.5,
+      1399.5,
+      834.5,
+      1399.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_9",
+    "group": "puzzle.card.9"
+  },
+  {
+    "line": [
+      834.5,
+      1399.5,
+      834.5,
+      1443.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_9",
+    "group": "puzzle.card.9"
+  },
+  {
+    "line": [
+      834.5,
+      1443.5,
+      790.5,
+      1443.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_9",
+    "group": "puzzle.card.9"
+  },
+  {
+    "line": [
+      790.5,
+      1443.5,
+      790.5,
+      1399.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_9",
+    "group": "puzzle.card.9"
+  },
+  {
+    "line": [
+      382.86,
+      1373.0,
+      403.0,
+      1387.1
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_10_0",
+    "group": "puzzle.card.10"
+  },
+  {
+    "line": [
+      447.0,
+      1417.9,
+      617.14,
+      1537.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_10_1",
+    "group": "puzzle.card.10"
+  },
+  {
+    "line": [
+      403.0,
+      1380.5,
+      447.0,
+      1380.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_10",
+    "group": "puzzle.card.10"
+  },
+  {
+    "line": [
+      447.0,
+      1380.5,
+      447.0,
+      1424.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_10",
+    "group": "puzzle.card.10"
+  },
+  {
+    "line": [
+      447.0,
+      1424.5,
+      403.0,
+      1424.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_10",
+    "group": "puzzle.card.10"
+  },
+  {
+    "line": [
+      403.0,
+      1424.5,
+      403.0,
+      1380.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_10",
+    "group": "puzzle.card.10"
+  },
+  {
+    "line": [
+      385.0,
+      1595.33,
+      463.0,
+      1584.93
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_11_0",
+    "group": "puzzle.card.11"
+  },
+  {
+    "line": [
+      507.0,
+      1579.07,
+      615.0,
+      1564.67
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_11_1",
+    "group": "puzzle.card.11"
+  },
+  {
+    "line": [
+      463.0,
+      1560.0,
+      507.0,
+      1560.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_11",
+    "group": "puzzle.card.11"
+  },
+  {
+    "line": [
+      507.0,
+      1560.0,
+      507.0,
+      1604.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_11",
+    "group": "puzzle.card.11"
+  },
+  {
+    "line": [
+      507.0,
+      1604.0,
+      463.0,
+      1604.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_11",
+    "group": "puzzle.card.11"
+  },
+  {
+    "line": [
+      463.0,
+      1604.0,
+      463.0,
+      1560.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_11",
+    "group": "puzzle.card.11"
+  },
+  {
+    "line": [
+      385.0,
+      1602.33,
+      538.0,
+      1612.53
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_12_0",
+    "group": "puzzle.card.12"
+  },
+  {
+    "line": [
+      582.0,
+      1615.47,
+      615.0,
+      1617.67
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_12_1",
+    "group": "puzzle.card.12"
+  },
+  {
+    "line": [
+      538.0,
+      1592.0,
+      582.0,
+      1592.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_12",
+    "group": "puzzle.card.12"
+  },
+  {
+    "line": [
+      582.0,
+      1592.0,
+      582.0,
+      1636.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_12",
+    "group": "puzzle.card.12"
+  },
+  {
+    "line": [
+      582.0,
+      1636.0,
+      538.0,
+      1636.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_12",
+    "group": "puzzle.card.12"
+  },
+  {
+    "line": [
+      538.0,
+      1636.0,
+      538.0,
+      1592.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_12",
+    "group": "puzzle.card.12"
+  },
+  {
+    "line": [
+      1015.0,
+      1340.88,
+      872.0,
+      1344.45
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_13_0",
+    "group": "puzzle.card.13"
+  },
+  {
+    "line": [
+      828.0,
+      1345.55,
+      685.0,
+      1349.12
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_13_1",
+    "group": "puzzle.card.13"
+  },
+  {
+    "line": [
+      828.0,
+      1323.0,
+      872.0,
+      1323.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_13",
+    "group": "puzzle.card.13"
+  },
+  {
+    "line": [
+      872.0,
+      1323.0,
+      872.0,
+      1367.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_13",
+    "group": "puzzle.card.13"
+  },
+  {
+    "line": [
+      872.0,
+      1367.0,
+      828.0,
+      1367.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_13",
+    "group": "puzzle.card.13"
+  },
+  {
+    "line": [
+      828.0,
+      1367.0,
+      828.0,
+      1323.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_13",
+    "group": "puzzle.card.13"
+  },
+  {
+    "line": [
+      377.6,
+      1577.0,
+      403.0,
+      1555.83
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_14_0",
+    "group": "puzzle.card.14"
+  },
+  {
+    "line": [
+      447.0,
+      1519.17,
+      622.4,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_edge_14_1",
+    "group": "puzzle.card.14"
+  },
+  {
+    "line": [
+      403.0,
+      1515.5,
+      447.0,
+      1515.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_14",
+    "group": "puzzle.card.14"
+  },
+  {
+    "line": [
+      447.0,
+      1515.5,
+      447.0,
+      1559.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_14",
+    "group": "puzzle.card.14"
+  },
+  {
+    "line": [
+      447.0,
+      1559.5,
+      403.0,
+      1559.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_14",
+    "group": "puzzle.card.14"
+  },
+  {
+    "line": [
+      403.0,
+      1559.5,
+      403.0,
+      1515.5
+    ],
+    "width": 2.5,
+    "command_id": "graph_card_frame_14",
+    "group": "puzzle.card.14"
+  },
+  {
+    "line": [
+      315.0,
+      1327.0,
+      385.0,
+      1327.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_0",
+    "group": "puzzle.node.0"
+  },
+  {
+    "line": [
+      385.0,
+      1327.0,
+      385.0,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_0",
+    "group": "puzzle.node.0"
+  },
+  {
+    "line": [
+      385.0,
+      1373.0,
+      315.0,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_0",
+    "group": "puzzle.node.0"
+  },
+  {
+    "line": [
+      315.0,
+      1373.0,
+      315.0,
+      1327.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_0",
+    "group": "puzzle.node.0"
+  },
+  {
+    "line": [
+      145.0,
+      1457.0,
+      215.0,
+      1457.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_1",
+    "group": "puzzle.node.1"
+  },
+  {
+    "line": [
+      215.0,
+      1457.0,
+      215.0,
+      1503.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_1",
+    "group": "puzzle.node.1"
+  },
+  {
+    "line": [
+      215.0,
+      1503.0,
+      145.0,
+      1503.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_1",
+    "group": "puzzle.node.1"
+  },
+  {
+    "line": [
+      145.0,
+      1503.0,
+      145.0,
+      1457.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_1",
+    "group": "puzzle.node.1"
+  },
+  {
+    "line": [
+      315.0,
+      1577.0,
+      385.0,
+      1577.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_2",
+    "group": "puzzle.node.2"
+  },
+  {
+    "line": [
+      385.0,
+      1577.0,
+      385.0,
+      1623.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_2",
+    "group": "puzzle.node.2"
+  },
+  {
+    "line": [
+      385.0,
+      1623.0,
+      315.0,
+      1623.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_2",
+    "group": "puzzle.node.2"
+  },
+  {
+    "line": [
+      315.0,
+      1623.0,
+      315.0,
+      1577.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_2",
+    "group": "puzzle.node.2"
+  },
+  {
+    "line": [
+      615.0,
+      1537.0,
+      685.0,
+      1537.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_3",
+    "group": "puzzle.node.3"
+  },
+  {
+    "line": [
+      685.0,
+      1537.0,
+      685.0,
+      1583.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_3",
+    "group": "puzzle.node.3"
+  },
+  {
+    "line": [
+      685.0,
+      1583.0,
+      615.0,
+      1583.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_3",
+    "group": "puzzle.node.3"
+  },
+  {
+    "line": [
+      615.0,
+      1583.0,
+      615.0,
+      1537.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_3",
+    "group": "puzzle.node.3"
+  },
+  {
+    "line": [
+      865.0,
+      1437.0,
+      935.0,
+      1437.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_4",
+    "group": "puzzle.node.4"
+  },
+  {
+    "line": [
+      935.0,
+      1437.0,
+      935.0,
+      1483.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_4",
+    "group": "puzzle.node.4"
+  },
+  {
+    "line": [
+      935.0,
+      1483.0,
+      865.0,
+      1483.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_4",
+    "group": "puzzle.node.4"
+  },
+  {
+    "line": [
+      865.0,
+      1483.0,
+      865.0,
+      1437.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_4",
+    "group": "puzzle.node.4"
+  },
+  {
+    "line": [
+      615.0,
+      1327.0,
+      685.0,
+      1327.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_5",
+    "group": "puzzle.node.5"
+  },
+  {
+    "line": [
+      685.0,
+      1327.0,
+      685.0,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_5",
+    "group": "puzzle.node.5"
+  },
+  {
+    "line": [
+      685.0,
+      1373.0,
+      615.0,
+      1373.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_5",
+    "group": "puzzle.node.5"
+  },
+  {
+    "line": [
+      615.0,
+      1373.0,
+      615.0,
+      1327.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_5",
+    "group": "puzzle.node.5"
+  },
+  {
+    "line": [
+      615.0,
+      1597.0,
+      685.0,
+      1597.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_6",
+    "group": "puzzle.node.6"
+  },
+  {
+    "line": [
+      685.0,
+      1597.0,
+      685.0,
+      1643.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_6",
+    "group": "puzzle.node.6"
+  },
+  {
+    "line": [
+      685.0,
+      1643.0,
+      615.0,
+      1643.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_6",
+    "group": "puzzle.node.6"
+  },
+  {
+    "line": [
+      615.0,
+      1643.0,
+      615.0,
+      1597.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_6",
+    "group": "puzzle.node.6"
+  },
+  {
+    "line": [
+      1015.0,
+      1317.0,
+      1085.0,
+      1317.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_7",
+    "group": "puzzle.node.7"
+  },
+  {
+    "line": [
+      1085.0,
+      1317.0,
+      1085.0,
+      1363.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_7",
+    "group": "puzzle.node.7"
+  },
+  {
+    "line": [
+      1085.0,
+      1363.0,
+      1015.0,
+      1363.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_7",
+    "group": "puzzle.node.7"
+  },
+  {
+    "line": [
+      1015.0,
+      1363.0,
+      1015.0,
+      1317.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_7",
+    "group": "puzzle.node.7"
+  },
+  {
+    "line": [
+      1215.0,
+      1427.0,
+      1285.0,
+      1427.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_8",
+    "group": "puzzle.node.8"
+  },
+  {
+    "line": [
+      1285.0,
+      1427.0,
+      1285.0,
+      1473.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_8",
+    "group": "puzzle.node.8"
+  },
+  {
+    "line": [
+      1285.0,
+      1473.0,
+      1215.0,
+      1473.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_8",
+    "group": "puzzle.node.8"
+  },
+  {
+    "line": [
+      1215.0,
+      1473.0,
+      1215.0,
+      1427.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_8",
+    "group": "puzzle.node.8"
+  },
+  {
+    "line": [
+      1435.0,
+      1547.0,
+      1505.0,
+      1547.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_9",
+    "group": "puzzle.node.9"
+  },
+  {
+    "line": [
+      1505.0,
+      1547.0,
+      1505.0,
+      1593.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_9",
+    "group": "puzzle.node.9"
+  },
+  {
+    "line": [
+      1505.0,
+      1593.0,
+      1435.0,
+      1593.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_9",
+    "group": "puzzle.node.9"
+  },
+  {
+    "line": [
+      1435.0,
+      1593.0,
+      1435.0,
+      1547.0
+    ],
+    "width": 2.5,
+    "command_id": "graph_node_frame_9",
+    "group": "puzzle.node.9"
+  }
+]

@@ -1,0 +1,21 @@
+wordfreq word list data
+
+Files in this directory derived from wordfreq (https://github.com/rspeer/wordfreq),
+version 3.1.1, top_n_list('en', ...), restricted to ASCII alphabetic tokens.
+
+Citation: Robyn Speer (2022). rspeer/wordfreq: v3.0. Zenodo.
+https://doi.org/10.5281/zenodo.7199437
+
+License of the data: Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+The derived word list in this directory is distributed under the same license.
+Changes: tokens filtered to ASCII letters, case changed, frequencies removed,
+list truncated as stated in the accompanying notice.
+
+wordfreq's own source code is licensed under the Apache License 2.0; no
+wordfreq code is included here.
+
+wordfreq builds on the following sources, credited as its license requires:
+Google Books Ngrams (http://books.google.com/ngrams), the Leeds Internet Corpus,
+Wikipedia, ParaCrawl, OPUS OpenSubtitles, and the SUBTLEX word lists by Marc
+Brysbaert et al. SUBTLEX is freely available data.

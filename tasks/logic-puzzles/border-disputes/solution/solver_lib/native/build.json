@@ -1,0 +1,22 @@
+{
+  "purpose": "Generic signed-margin engine; inputs are the margins and the enumerated completions of the visible labels read from the puzzle images.",
+  "builds": [
+    {
+      "source": "schedule_rows.c",
+      "source_sha256": "a5b41800aa0024e0aab17879acf3bf17ea41c138549b29b1b359719f4b32a310",
+      "binary": "schedule_rows-linux-x86_64",
+      "binary_sha256": "5d79f3cda8cec424848f6fbd5a22b0f1274ccc8d2988991f1133aa22438c5e13",
+      "command": [
+        "gcc",
+        "-O3",
+        "-static",
+        "-o",
+        "schedule_rows-linux-x86_64",
+        "schedule_rows.c"
+      ],
+      "platform": "Linux x86_64",
+      "linking": "static",
+      "compiler": "gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Bumpy Ride — Walkthrough
+
+1. The example page shows how the result is read. The telephone enclosure is a **phone box**, and it has two naming blanks; the circled 1 sits beside the second one. That word is **box**. The phone box's outgoing line reaches a railway **car** marked 2. The footer reads 1 + 2 and leads to a pictured freight wagon, a **boxcar**, confirming both which word to retain and the joining order: keep the word at the numbered blank, then the object the outgoing arrow selects.
+
+2. On the question page, the top panel pairs a mountain **lake** with two lamps of the same shape, one dark and one shining; the small pointer selects the shining one, **bright**. Exchanging the complete opening consonant sounds turns lake/bright into **brake light** (l + ake, br + ight → br + ake, l + ight). Swapping only single sounds would not give real words, so the whole opening cluster "br" moves as a unit. The car below faces right (windscreen and steering wheel on the right), so the lamp at the left end is the brake light. Its connections lead to the left pair of smaller pictures and to the small load in the higher pan of the balance below; the headlight at the front feeds the other branch.
+
+3. The left pair shows a draped cloth and the **tip** of a pen, selected by the small pointer. Cloth names such as scarf and stole are possible initially, but **shawl** makes shawl/tip become **tall ship**, matching the sailing vessel in the next scene. Its outgoing line crosses over the other line at the small bridge arc and leads to the bottle and glass. The coal-store line separately leads to rain.
+
+4. The selected small load is **light** compared with the weight lowering the other pan. The selected bottle and glass suggest **wine**. Light/wine gives **white line**, matching the dashed center marking in the road scene. This distinguishes the center line from the separate right lane. Circled 1 is beside the first naming blank here, so retain **white**.
+
+5. The road scene's three outlets all end in the single pier scene marked 2, each pointing at a different part of it. The coastal-road outlet points at the rope slung between two posts, a **line**; the right-lane outlet runs round the edge and points into the square inside corner of the pier, an **angle**; the center-line outlet points down into the grey rippled area outside the pier, the **water**. Follow the center line: white + water gives **WHITEWATER**, in the same order as the example. The other outlets also support familiar expressions, such as coastline and right angle; the earlier picture matches and connections determine which outlet to use.
+
+**Answer: WHITEWATER**

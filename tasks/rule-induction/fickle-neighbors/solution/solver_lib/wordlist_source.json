@@ -1,0 +1,6 @@
+{
+  "source": "https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict",
+  "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+  "license": "BSD-style CMUdict license; LICENSE-cmudict",
+  "eight_letter_entries": 17907
+}

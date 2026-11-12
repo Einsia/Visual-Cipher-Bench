@@ -1,0 +1,143 @@
+{
+  "tray": [
+    "tray",
+    "platter",
+    "dish"
+  ],
+  "chest": [
+    "chest",
+    "trunk",
+    "box",
+    "coffer"
+  ],
+  "sled": [
+    "sled",
+    "sledge",
+    "sleigh",
+    "toboggan"
+  ],
+  "reed": [
+    "reed",
+    "cattail",
+    "bulrush"
+  ],
+  "wing": [
+    "wing",
+    "feather"
+  ],
+  "deer": [
+    "deer",
+    "stag",
+    "buck",
+    "hart"
+  ],
+  "dial": [
+    "dial",
+    "gauge",
+    "clock",
+    "face"
+  ],
+  "bone": [
+    "bone",
+    "femur"
+  ],
+  "cone": [
+    "cone"
+  ],
+  "suit": [
+    "suit",
+    "jacket",
+    "coat",
+    "blazer"
+  ],
+  "vest": [
+    "vest",
+    "waistcoat"
+  ],
+  "ape": [
+    "ape",
+    "gorilla",
+    "primate"
+  ],
+  "tart": [
+    "tart",
+    "pie",
+    "pastry"
+  ],
+  "seal": [
+    "seal",
+    "sealion"
+  ],
+  "cord": [
+    "cord",
+    "rope",
+    "string",
+    "coil",
+    "cable"
+  ],
+  "book": [
+    "book",
+    "volume",
+    "tome"
+  ],
+  "mitt": [
+    "mitt",
+    "glove",
+    "mitten"
+  ],
+  "tail": [
+    "tail",
+    "brush"
+  ],
+  "ring": [
+    "ring",
+    "band",
+    "jewel"
+  ],
+  "urn": [
+    "urn",
+    "vase",
+    "pot",
+    "jar"
+  ],
+  "fir": [
+    "fir",
+    "pine",
+    "tree",
+    "spruce"
+  ],
+  "log": [
+    "log",
+    "wood",
+    "timber"
+  ],
+  "bun": [
+    "bun",
+    "roll",
+    "bread"
+  ],
+  "cow": [
+    "cow",
+    "cattle",
+    "ox"
+  ],
+  "tap": [
+    "tap",
+    "faucet",
+    "spigot"
+  ],
+  "fin": [
+    "fin",
+    "flipper"
+  ],
+  "bat": [
+    "bat",
+    "club",
+    "paddle"
+  ],
+  "ink": [
+    "ink",
+    "bottle",
+    "inkwell"
+  ]
+}

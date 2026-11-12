@@ -1,0 +1,39 @@
+{
+  "purpose": "Public input only: margins and enumerated completions of visible circled labels. No selected target, loop, order or answer is compiled into either engine.",
+  "builds": [
+    {
+      "source": "schedule_rows.c",
+      "source_sha256": "0d340ed19c5b77461ab63891190a08dcb903dacf21105300facce48204a3a68d",
+      "binary": "schedule_rows-linux-x86_64",
+      "binary_sha256": "943b927c04d28eba3260ee5d1af6c3714f5a11421eb5b7ce500778fd04690721",
+      "command": [
+        "cc",
+        "-O3",
+        "-static",
+        "-o",
+        "schedule_rows-linux-x86_64",
+        "schedule_rows.c"
+      ],
+      "platform": "Linux x86_64",
+      "linking": "static",
+      "compiler": "cc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0"
+    },
+    {
+      "source": "schedule_edges.c",
+      "source_sha256": "4097942bb0a39c63292f5ee1394c81d59ce28d375cd290d2d623dc7cb36be09c",
+      "binary": "schedule_edges-linux-x86_64",
+      "binary_sha256": "a0dcb4e82844ace9218a0e579da987c5d860aa9b9bdda8e6691afcd2772b401e",
+      "command": [
+        "cc",
+        "-O3",
+        "-static",
+        "-o",
+        "schedule_edges-linux-x86_64",
+        "schedule_edges.c"
+      ],
+      "platform": "Linux x86_64",
+      "linking": "static",
+      "compiler": "cc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0"
+    }
+  ]
+}

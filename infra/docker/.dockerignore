@@ -1,0 +1,6 @@
+*
+!base.Dockerfile
+!wheels/
+!wheels/**
+!agents/
+!agents/**

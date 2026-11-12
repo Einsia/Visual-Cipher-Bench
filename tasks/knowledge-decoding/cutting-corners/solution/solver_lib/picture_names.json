@@ -1,0 +1,84 @@
+{
+  "note": "Words an everyday pictogram is called or stands for (reference-solver knowledge, generous lists).",
+  "names": {
+    "daisy": [
+      "FLOWER",
+      "ROSE",
+      "BLOOM",
+      "BLOSSOM",
+      "BUD",
+      "PLANT",
+      "TULIP",
+      "DAISY",
+      "LILY",
+      "PETAL",
+      "STEM",
+      "IRIS",
+      "POPPY",
+      "LOTUS",
+      "POSY"
+    ],
+    "tick": [
+      "TICK",
+      "CHECK",
+      "CHECKMARK",
+      "TICKMARK",
+      "MARK",
+      "RIGHT",
+      "YES",
+      "OKAY",
+      "CORRECT",
+      "TRUE",
+      "DONE",
+      "VALID",
+      "PASS",
+      "TICKED",
+      "CHECKED"
+    ],
+    "scales": [
+      "SCALES",
+      "SCALE",
+      "BALANCE",
+      "WEIGH",
+      "LIBRA",
+      "JUSTICE",
+      "WEIGHT",
+      "MEASURE",
+      "LAW",
+      "FAIR"
+    ],
+    "pencil": [
+      "PENCIL",
+      "LEAD",
+      "PEN",
+      "WRITE",
+      "DRAW",
+      "SKETCH",
+      "GRAPHITE",
+      "CRAYON",
+      "NIB",
+      "POINT"
+    ],
+    "phone": [
+      "PHONE",
+      "TELEPHONE",
+      "RING",
+      "CALL",
+      "DIAL",
+      "BELL",
+      "BUZZ",
+      "RECEIVER",
+      "CELL",
+      "MOBILE",
+      "HANDSET",
+      "HELLO",
+      "LINE"
+    ],
+    "note": [
+      "NOTE",
+      "TONE",
+      "MUSIC",
+      "SOUND"
+    ]
+  }
+}

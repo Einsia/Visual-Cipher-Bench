@@ -1,0 +1,31 @@
+{
+  "font": {
+    "file": "DejaVuSansMono.ttf",
+    "source": "System DejaVu Sans Mono",
+    "license": "LICENSE-DejaVu.txt"
+  },
+  "pronunciations": {
+    "file": "cmudict.dict",
+    "source": "https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict",
+    "acquisition": "Unmodified copy of a general English dictionary",
+    "license": "LICENSE-CMUdict.txt"
+  },
+  "lexicon": {
+    "file": "lexicon.json",
+    "source": "Complete WordNet lexical pronunciation database",
+    "original_wordnet_source": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip",
+    "wordnet_archive_sha256": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59",
+    "processing": "All lowercase alphabetic WordNet lexemes, uppercase keys and spaces removed. CMU pronunciations first; otherwise concatenate component pronunciations. Stress digits ignored. No puzzle-specific filtering or additions.",
+    "entries": 77235,
+    "licenses": [
+      "LICENSE-WordNet.txt",
+      "LICENSE-CMUdict.txt"
+    ]
+  },
+  "icon_recognition": "Generic geometric features implemented in vision.py; ordinary object-name alternatives in reasoning.py.",
+  "sha256": {
+    "DejaVuSansMono.ttf": "39c29931201f08dd89fdba4129c76288e6baeecf7c94fe4f6a757f2b50718b1b",
+    "cmudict.dict": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+    "lexicon.json": "a676142904492a24412be846b21f2146d1050721027b1fc9ea65c5fd7af53cd5"
+  }
+}

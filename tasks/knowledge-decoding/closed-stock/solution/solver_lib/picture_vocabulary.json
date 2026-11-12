@@ -1,0 +1,95 @@
+{
+  "fly": [
+    "fly",
+    "insect",
+    "bug",
+    "gnat",
+    "beetle",
+    "bee",
+    "wasp",
+    "hornet",
+    "mosquito"
+  ],
+  "hook": [
+    "hook",
+    "crook",
+    "gaff",
+    "hanger",
+    "fishhook",
+    "fishinghook"
+  ],
+  "box": [
+    "box",
+    "crate",
+    "carton",
+    "chest",
+    "case",
+    "package",
+    "bin",
+    "cube"
+  ],
+  "bow": [
+    "bow",
+    "ribbon",
+    "tie",
+    "knot",
+    "bowtie",
+    "ribbonbow"
+  ],
+  "horn": [
+    "horn",
+    "trumpet",
+    "bugle",
+    "cornet",
+    "instrument",
+    "huntinghorn"
+  ],
+  "bag": [
+    "bag",
+    "sack",
+    "pouch",
+    "purse",
+    "packet",
+    "drawstringbag",
+    "moneybag"
+  ],
+  "axe": [
+    "axe",
+    "ax",
+    "hatchet",
+    "chopper"
+  ],
+  "coat": [
+    "coat",
+    "jacket",
+    "overcoat",
+    "raincoat",
+    "garment",
+    "shirt",
+    "trenchcoat"
+  ],
+  "wheel": [
+    "wheel",
+    "gear",
+    "cog",
+    "tire",
+    "tyre",
+    "spoke",
+    "cartwheel",
+    "wagonwheel",
+    "circle",
+    "ring"
+  ],
+  "tin": [
+    "tin",
+    "can",
+    "canister",
+    "container",
+    "cylinder",
+    "tub",
+    "drum",
+    "barrel",
+    "pail",
+    "bucket"
+  ]
+}

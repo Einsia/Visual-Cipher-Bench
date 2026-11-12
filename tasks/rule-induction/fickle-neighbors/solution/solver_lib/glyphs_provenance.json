@@ -1,0 +1,7 @@
+{
+  "source": "Framework pagekit outlined DejaVu Sans Mono glyphs, body 34 px. Universal A\u2013Z templates; no puzzle words or cell data.",
+  "glyphs_sha256": "2e16250d695bd0f26dd7149947d64f36edf8a968fd8bda710ca00933bdb8820c",
+  "normalization": "tight ink bounding box to 32x32 nearest neighbor",
+  "license": "LICENSE-DejaVu.txt",
+  "all_26_letters": true
+}

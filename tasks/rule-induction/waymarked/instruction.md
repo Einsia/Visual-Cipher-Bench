@@ -1,0 +1,1 @@
+Solve this visual reasoning puzzle: examine all images in `/app/images/` and write the single final answer to `/work/answer.txt`. Write only the answer itself, with no quotes, punctuation, or explanation.

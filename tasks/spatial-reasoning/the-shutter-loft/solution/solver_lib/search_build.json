@@ -1,0 +1,10 @@
+{
+  "source": "search.c",
+  "executable": "search_linux_x86_64",
+  "source_sha256": "bfacbba1518ef85d379df92eaed67c8cd0ce10a142c13a471c942b9338389c74",
+  "executable_sha256": "7a6e518165a990e24e5a62ba64d7eb60586a142a71be5010f64ac4ca73dd5834",
+  "target": "Linux x86_64, statically linked",
+  "build_command": "cc -O3 -std=c99 -static search.c -lm -o search_linux_x86_64",
+  "compiler": "cc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0",
+  "runtime_dependencies": "No compiler or shared-library dependency. The executable computes from the generated input file."
+}

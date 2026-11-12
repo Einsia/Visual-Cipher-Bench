@@ -1,0 +1,8 @@
+{
+  "source": "exact5.cpp",
+  "source_sha256": "2cd90013ce8060500283624b2e7bd1a59dc1bb17ba3147a4d6fd1bfefa21ce64",
+  "binary": "exact5",
+  "binary_sha256": "8ac17755c3bbd825dc416b6faafb0a6d0dca09492528b0d2c2f9cd40cd7c9311",
+  "command": "g++ -O3 -std=c++17 -static exact5.cpp -o exact5",
+  "purpose": "Self-contained Linux x86_64 exhaustive engine; no runtime compiler or package installation required."
+}

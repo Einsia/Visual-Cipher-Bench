@@ -1,0 +1,15 @@
+{
+  "upstream": "https://github.com/tesseract-ocr/tessdata_fast/",
+  "local_source": "/usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata",
+  "version": "4.00.00alpha:eng:synth20170629",
+  "license": "Apache-2.0",
+  "source_sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+  "export_commands": [
+    "combine_tessdata -u /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata work/lexicon/eng.",
+    "dawg2wordlist work/lexicon/eng.lstm-unicharset work/lexicon/eng.lstm-word-dawg work/lexicon/words.txt"
+  ],
+  "filter": "All originally lowercase ASCII words of length 3 to 12, uppercased, sorted and deduplicated, independent of puzzle recordings.",
+  "word_count": 77400,
+  "wordlist_sha256": "90de1a04dfa6a4563d81c85b694e4abb1f87f918436bf6aa8e24881aa5dab634",
+  "limitations": "OCR lexicon contains proper names, misspellings and specialist words. It is an alternate-segmentation search, not definitions or a theorem over all English words. No download."
+}

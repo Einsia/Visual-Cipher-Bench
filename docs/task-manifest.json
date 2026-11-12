@@ -1,0 +1,393 @@
+{
+  "task_count": 40,
+  "image_count": 67,
+  "tasks": [
+    {
+      "task_id": "core-memory",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/core-memory",
+      "images": [
+        "tasks/spatial-reasoning/core-memory/environment/images/01.png",
+        "tasks/spatial-reasoning/core-memory/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "drydock-cipher",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/drydock-cipher",
+      "images": [
+        "tasks/spatial-reasoning/drydock-cipher/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "mixed-company",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/mixed-company",
+      "images": [
+        "tasks/spatial-reasoning/mixed-company/environment/images/01.png",
+        "tasks/spatial-reasoning/mixed-company/environment/images/02.png",
+        "tasks/spatial-reasoning/mixed-company/environment/images/03.png"
+      ]
+    },
+    {
+      "task_id": "parting-faces",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/parting-faces",
+      "images": [
+        "tasks/spatial-reasoning/parting-faces/environment/images/01.png",
+        "tasks/spatial-reasoning/parting-faces/environment/images/02.png",
+        "tasks/spatial-reasoning/parting-faces/environment/images/03.png"
+      ]
+    },
+    {
+      "task_id": "prism-camera",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/prism-camera",
+      "images": [
+        "tasks/spatial-reasoning/prism-camera/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "some-assembly-required",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/some-assembly-required",
+      "images": [
+        "tasks/spatial-reasoning/some-assembly-required/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "the-shutter-loft",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/the-shutter-loft",
+      "images": [
+        "tasks/spatial-reasoning/the-shutter-loft/environment/images/01.png",
+        "tasks/spatial-reasoning/the-shutter-loft/environment/images/02.png",
+        "tasks/spatial-reasoning/the-shutter-loft/environment/images/03.png"
+      ]
+    },
+    {
+      "task_id": "tin-aviary",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/tin-aviary",
+      "images": [
+        "tasks/spatial-reasoning/tin-aviary/environment/images/01.png",
+        "tasks/spatial-reasoning/tin-aviary/environment/images/02.png",
+        "tasks/spatial-reasoning/tin-aviary/environment/images/03.png"
+      ]
+    },
+    {
+      "task_id": "window-dressing",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/window-dressing",
+      "images": [
+        "tasks/spatial-reasoning/window-dressing/environment/images/01.png",
+        "tasks/spatial-reasoning/window-dressing/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "window-loom",
+      "partition": "P1",
+      "category": "spatial-reasoning",
+      "path": "tasks/spatial-reasoning/window-loom",
+      "images": [
+        "tasks/spatial-reasoning/window-loom/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "border-disputes",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/border-disputes",
+      "images": [
+        "tasks/logic-puzzles/border-disputes/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "city-limits",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/city-limits",
+      "images": [
+        "tasks/logic-puzzles/city-limits/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "echo-vault",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/echo-vault",
+      "images": [
+        "tasks/logic-puzzles/echo-vault/environment/images/01.png",
+        "tasks/logic-puzzles/echo-vault/environment/images/02.png",
+        "tasks/logic-puzzles/echo-vault/environment/images/03.png"
+      ]
+    },
+    {
+      "task_id": "front-desk",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/front-desk",
+      "images": [
+        "tasks/logic-puzzles/front-desk/environment/images/01.png",
+        "tasks/logic-puzzles/front-desk/environment/images/02.png",
+        "tasks/logic-puzzles/front-desk/environment/images/03.png"
+      ]
+    },
+    {
+      "task_id": "jacquard-memory",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/jacquard-memory",
+      "images": [
+        "tasks/logic-puzzles/jacquard-memory/environment/images/01.png",
+        "tasks/logic-puzzles/jacquard-memory/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "latent-exposure",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/latent-exposure",
+      "images": [
+        "tasks/logic-puzzles/latent-exposure/environment/images/01.png",
+        "tasks/logic-puzzles/latent-exposure/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "return-address",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/return-address",
+      "images": [
+        "tasks/logic-puzzles/return-address/environment/images/01.png",
+        "tasks/logic-puzzles/return-address/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "tailor-made",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/tailor-made",
+      "images": [
+        "tasks/logic-puzzles/tailor-made/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "the-glasshouse-echo",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/the-glasshouse-echo",
+      "images": [
+        "tasks/logic-puzzles/the-glasshouse-echo/environment/images/01.png",
+        "tasks/logic-puzzles/the-glasshouse-echo/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "the-wax-automaton",
+      "partition": "P2",
+      "category": "logic-puzzles",
+      "path": "tasks/logic-puzzles/the-wax-automaton",
+      "images": [
+        "tasks/logic-puzzles/the-wax-automaton/environment/images/01.png",
+        "tasks/logic-puzzles/the-wax-automaton/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "dockside-detours",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/dockside-detours",
+      "images": [
+        "tasks/rule-induction/dockside-detours/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "echo-basin",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/echo-basin",
+      "images": [
+        "tasks/rule-induction/echo-basin/environment/images/01.png",
+        "tasks/rule-induction/echo-basin/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "fickle-neighbors",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/fickle-neighbors",
+      "images": [
+        "tasks/rule-induction/fickle-neighbors/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "lasting-impressions",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/lasting-impressions",
+      "images": [
+        "tasks/rule-induction/lasting-impressions/environment/images/01.png",
+        "tasks/rule-induction/lasting-impressions/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "loose-threads",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/loose-threads",
+      "images": [
+        "tasks/rule-induction/loose-threads/environment/images/01.png",
+        "tasks/rule-induction/loose-threads/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "notebook-society",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/notebook-society",
+      "images": [
+        "tasks/rule-induction/notebook-society/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "relay-cabinet",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/relay-cabinet",
+      "images": [
+        "tasks/rule-induction/relay-cabinet/environment/images/01.png",
+        "tasks/rule-induction/relay-cabinet/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "rush-hour",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/rush-hour",
+      "images": [
+        "tasks/rule-induction/rush-hour/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "waymarked",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/waymarked",
+      "images": [
+        "tasks/rule-induction/waymarked/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "word-of-mouth",
+      "partition": "P3",
+      "category": "rule-induction",
+      "path": "tasks/rule-induction/word-of-mouth",
+      "images": [
+        "tasks/rule-induction/word-of-mouth/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "bumpy-ride",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/bumpy-ride",
+      "images": [
+        "tasks/knowledge-decoding/bumpy-ride/environment/images/01.png",
+        "tasks/knowledge-decoding/bumpy-ride/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "closed-stock",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/closed-stock",
+      "images": [
+        "tasks/knowledge-decoding/closed-stock/environment/images/01.png",
+        "tasks/knowledge-decoding/closed-stock/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "cutting-corners",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/cutting-corners",
+      "images": [
+        "tasks/knowledge-decoding/cutting-corners/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "firm-friends",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/firm-friends",
+      "images": [
+        "tasks/knowledge-decoding/firm-friends/environment/images/01.png",
+        "tasks/knowledge-decoding/firm-friends/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "household-staff",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/household-staff",
+      "images": [
+        "tasks/knowledge-decoding/household-staff/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "lost-property",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/lost-property",
+      "images": [
+        "tasks/knowledge-decoding/lost-property/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "parting-gift",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/parting-gift",
+      "images": [
+        "tasks/knowledge-decoding/parting-gift/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "rough-draft",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/rough-draft",
+      "images": [
+        "tasks/knowledge-decoding/rough-draft/environment/images/01.png"
+      ]
+    },
+    {
+      "task_id": "still-room",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/still-room",
+      "images": [
+        "tasks/knowledge-decoding/still-room/environment/images/01.png",
+        "tasks/knowledge-decoding/still-room/environment/images/02.png"
+      ]
+    },
+    {
+      "task_id": "track-meet",
+      "partition": "P4",
+      "category": "knowledge-decoding",
+      "path": "tasks/knowledge-decoding/track-meet",
+      "images": [
+        "tasks/knowledge-decoding/track-meet/environment/images/01.png"
+      ]
+    }
+  ]
+}

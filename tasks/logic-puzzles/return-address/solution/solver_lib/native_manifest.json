@@ -1,0 +1,7 @@
+{
+  "build": "gcc -O3 -std=c99 -fPIC -shared search.c -o search_linux_x86_64.so",
+  "sha256": {
+    "search.c": "76b4bf387a943d3b68b0cdf5c52d743a95fa8d46ee9e69380e08b06dce292e3f",
+    "search_linux_x86_64.so": "370e8d37f2e7659176a9d73689ad1f80cc235771bbe2fdc50818c8d8769eb724"
+  }
+}

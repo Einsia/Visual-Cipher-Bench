@@ -1,0 +1,31 @@
+Visual Cipher Bench
+Copyright 2026 The Visual Cipher Bench authors
+
+Project-authored software and technical documentation are licensed
+under Apache-2.0 (LICENSE). Original puzzle content that the
+project is authorized to license is licensed under CC BY 4.0
+(LICENSE-CONTENT). The README describes the scope of each license.
+
+Puzzle design references
+
+The authors consulted publicly available puzzle competition archives,
+solver write-ups, and authoring guides during design, including material
+from the MIT Mystery Hunt community and Puzzled Pint. The paper credits
+these research references and describes the design process. Rights in the
+referenced source material remain with its respective rights holders.
+
+Bundled third-party resources
+
+Some reference solvers include fonts or glyph data from DejaVu, lexical
+resources from CMUdict, Princeton WordNet, Open English WordNet, Wordnik,
+wordfreq and other word lists, and components from Tesseract and OR-Tools.
+THIRD_PARTY_NOTICES.md indexes the applicable notices. Each bundled
+third-party component follows its own terms. The Lost Property vocabulary
+is a wordfreq-derived list under CC BY-SA 4.0. Echo Vault's vendored
+runtime includes components under Apache-2.0, BSD, MIT, EPL, MPL, Boost,
+zlib and bzip2 terms; its adjacent notice identifies the component scope
+and how to obtain the corresponding upstream source and patches.
+
+Third-party names and logos in the overview figure identify evaluated
+models and their providers. Rights in those marks remain with their
+respective owners.

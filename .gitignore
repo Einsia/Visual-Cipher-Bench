@@ -1,0 +1,16 @@
+# Harbor job output
+jobs/
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.DS_Store
+
+# Release runtime downloads and local environments
+infra/docker/wheels/
+infra/docker/agents/
+.venv/
+.env
+.env.*
+*.log
+.pytest_cache/

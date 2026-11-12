@@ -1,0 +1,3 @@
+The PNG recognizer uses individual pixel prototypes for object classes, mode marks, the repeated dictionary mark, arrowheads, and individual data glyphs (templates.npz). A second road prototype represents a single selected lane. Coordinates describe recognition regions, not operator identities.
+
+The finite language engine is a standard-library implementation. pronunciations.json and english_words.json are lexical resources; see the licenses and WORDLIST_NOTICE.md. Productive plurals are a conservative lexical over-approximation. All runtime imports are Python standard library, Pillow, or NumPy.

@@ -1,0 +1,22 @@
+artifacts = ["/work/answer.txt"]
+
+[metadata]
+category = "logic-puzzles"
+
+[agent]
+timeout_sec = 3600
+network_mode = "no-network"
+user = "puzzle"
+
+[verifier]
+timeout_sec = 120
+network_mode = "no-network"
+user = "root"
+environment_mode = "separate"
+
+[environment]
+build_timeout_sec = 600
+network_mode = "no-network"
+cpus = 2
+memory_mb = 4096
+storage_mb = 4096

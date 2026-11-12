@@ -1,0 +1,37 @@
+General English frequency word list
+
+File: common_words_20k.txt
+Source: wordfreq 3.1.1 by Robyn Speer
+https://pypi.org/project/wordfreq/3.1.1/
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Full terms: LICENSE-CC-BY-SA-4.0.txt
+Attribution and underlying sources: LICENSE-wordfreq.txt
+
+Derivation: request top_n_list('en', 200000) with wordfreq 3.1.1's defaults;
+retain tokens for which isascii() and isalpha() are both true, preserving
+the supplied order; lowercase; take the first 20,000; serialize one token
+per line with LF endings and a final newline. Frequencies are omitted.
+No puzzle-specific filtering, additions, or reordering are performed.
+
+SHA-256 of common_words_20k.txt:
+f5b311902881a8f4a26db66a785d3832b64b77f6cf6d7a22ebbd5ca12fd7e2f2
+
+The source wheel is wordfreq-3.1.1-py3-none-any.whl, SHA-256:
+4b1c6ecffc6198be3396d5cf871c4423ca71c907c231348d352dd54d62b97473
+The wheel's METADATA, License section, states the data's CC BY-SA 4.0
+redistribution terms; its Apache-2.0 code license is a separate grant.
+No wordfreq implementation code is bundled here.
+
+This release uses the wordfreq-derived list in place of the earlier
+Google-corpus-derived vocabulary. The earlier list is not included and
+is not represented as public domain. This change affects a reference-
+solver resource only; puzzle images, instructions, answers, grading,
+and the evaluated agent's environment are unchanged.
+
+Validation on 2026-11-13: the list was independently regenerated from
+the identified wheel and matched byte-for-byte. The unchanged reference
+solver, run offline on AWS in the Linux x86-64 / Python 3.12 benchmark
+image with this list, returned BACKFIELD. The unchanged task grader
+awarded reward 1. This checks the reference solution; it is not a rerun
+of the model evaluation.

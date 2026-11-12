@@ -1,0 +1,72 @@
+{
+  "Submarine": [
+    {
+      "subject": null,
+      "relation": "below",
+      "anchor": "sea",
+      "reading": "submarine adjective: undersea; under / sea"
+    },
+    {
+      "subject": null,
+      "relation": "below",
+      "anchor": "hand",
+      "reading": "submarine as a baseball verb: throw with an underhand motion; under / hand"
+    }
+  ],
+  "I manage": [
+    {
+      "subject": "eye",
+      "relation": "above",
+      "anchor": "sea",
+      "reading": "I manage \u2192 I oversee \u2192 eye over sea"
+    }
+  ],
+  "Footbed": [
+    {
+      "subject": null,
+      "relation": "inside",
+      "anchor": "sole",
+      "reading": "footbed: an insole; in / sole"
+    }
+  ],
+  "Sly": [
+    {
+      "subject": null,
+      "relation": "below",
+      "anchor": "hand",
+      "reading": "sly: underhand; under / hand; hand is the clock pointer"
+    }
+  ],
+  "Embarked": [
+    {
+      "subject": null,
+      "relation": "on",
+      "anchor": "board",
+      "reading": "embarked: on board a vessel; on / board"
+    }
+  ],
+  "Mutter": [
+    {
+      "subject": null,
+      "relation": "below",
+      "anchor": "tone",
+      "reading": "a mutter: words spoken in a low voice, in an undertone \u2192 under / tone"
+    }
+  ],
+  "Subdued voice": [
+    {
+      "subject": null,
+      "relation": "below",
+      "anchor": "tone",
+      "reading": "a subdued or low voice: undertone \u2192 under / tone"
+    }
+  ],
+  "Expenditure": [
+    {
+      "subject": null,
+      "relation": "above",
+      "anchor": "head",
+      "reading": "business expenditure: overhead \u2192 over / head; both the nail head and notehead qualify"
+    }
+  ]
+}
