@@ -4,7 +4,10 @@
 
 **Benchmarking LLM agents on long-horizon visual reasoning.**
 
-<!-- Benchmark website link goes here. -->
+[![Paper](https://img.shields.io/badge/arXiv-2611.16861-b31b1b)](https://arxiv.org/abs/2611.16861)
+[![Website](https://img.shields.io/badge/Website-lab.einsia.ai-10A37F)](https://lab.einsia.ai/visual-cipher-bench/)
+[![GitHub](https://img.shields.io/badge/GitHub-Einsia%2FVisual--Cipher--Bench-181717?logo=github)](https://github.com/Einsia/Visual-Cipher-Bench)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-29_configurations-6B4FBB)](https://lab.einsia.ai/visual-cipher-bench/#leaderboard)
 
 </div>
 
@@ -77,11 +80,14 @@ The task folders use the [Harbor](https://harborframework.com) format. `solution
 ## Citation
 
 ```bibtex
-@misc{hong2026visualcipherbench,
-  title = {Visual Cipher Bench: Benchmarking LLM Agents on Long-Horizon Visual Reasoning},
-  author = {Deyao Hong and Jiayi Jiang and Yuchun Chen and Yixuan Shi and Wenyi Li and Zheng Jiang and Chengxing Xie and Mingyu Su and Qingle Liu and Mingju Gao and Yizhe Chi and Youjie Zheng and Calvin Xiao and Kaisen Yang and Huan-ang Gao},
-  year = {2026},
-  note = {Manuscript}
+@article{hong2026visualcipherbench,
+  title   = {Visual Cipher Bench: Benchmarking LLM Agents on Long-Horizon Visual Reasoning},
+  author  = {Deyao Hong and Jiayi Jiang and Yuchun Chen and Yixuan Shi and Wenyi Li
+             and Zheng Jiang and Chengxing Xie and Mingyu Su and Qingle Liu and Mingju Gao
+             and Yizhe Chi and Youjie Zheng and Calvin Xiao and Kaisen Yang
+             and Huan-ang Gao},
+  journal = {arXiv preprint arXiv:2611.16861},
+  year    = {2026}
 }
 ```
 
